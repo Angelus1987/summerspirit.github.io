@@ -1,14 +1,14 @@
-title:            Site Title
-description:      Describe your website.
+title:            Naomi's Most Excellent Site
+description:      where she will write wondrous and amazing things
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://localhost:4000 #http://summerspirit.github.io
 disqus_shortname: 
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Naomi
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  bio:            "Main squeeze is currently Ruby on Rails."
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
