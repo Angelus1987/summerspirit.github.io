@@ -8,14 +8,14 @@ disqus_shortname:
 owner:
   name:           Naomi
   avatar:         bio-photo.jpg
-  bio:            "Main squeeze is currently Ruby on Rails."
+  bio:            "I'm writing lots of code in lots of languages these days. Ruby on Rails is my main squeeze."
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
+  twitter:        "@naomi_freeman"
   facebook:       
-  github:         
+  github:         "summerspirit"
   stackoverflow: 
-  linkedin:       
+  linkedin:       "/torontotechstoryteller"
   instagram:      
   lastfm:         
   tumblr: 
