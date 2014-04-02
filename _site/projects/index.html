@@ -5,9 +5,9 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>About &#8211; Naomi's Most Excellent Site</title>
-<meta name="description" content="">
-<meta name="keywords" content="about">
+<title>Projects &#8211; Naomi's Most Excellent Site</title>
+<meta name="description" content="This will be where Naomi's Projects live.">
+<meta name="keywords" content="Ruby on Rails">
 <!-- Twitter Cards -->
 	
 		<meta name="twitter:card" content="summary_large_image">
@@ -17,24 +17,24 @@
 			
 		>
 	
-	<meta name="twitter:title" content="About">
-	<meta name="twitter:description" content="where she will write wondrous and amazing things">
+	<meta name="twitter:title" content="Projects">
+	<meta name="twitter:description" content="This will be where Naomi's Projects live.">
 	<meta name="twitter:creator" content="@@naomi_freeman">
 
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_CA">
 <meta property="og:type" content="article">
-<meta property="og:title" content="About">
-<meta property="og:description" content="where she will write wondrous and amazing things">
-<meta property="og:url" content="http://localhost:4000/about/">
+<meta property="og:title" content="Projects">
+<meta property="og:description" content="This will be where Naomi's Projects live.">
+<meta property="og:url" content="http://localhost:4000/projects/">
 <meta property="og:site_name" content="Naomi's Most Excellent Site">
 
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/about/">
+<link rel="canonical" href="http://localhost:4000/projects/">
 <link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Naomi's Most Excellent Site Feed">
 
 
@@ -106,7 +106,9 @@
     
       "http://localhost:4000/images/texture-feature-03.jpg"
     
-  alt="About feature image">
+  alt="Projects feature image">
+  
+    <span class="image-credit">Photo Credit: <a href="http://texturelovers.com">Texture Lovers</a></span>
   
   </div><!-- /.image-wrap -->
 
@@ -133,24 +135,75 @@
 
   </div>
   <article>
-    <h1>About</h1>
+    <h1>Projects</h1>
     <div class="article-wrap">
-      <p>Cat ipsum dolor sit amet, flop over lick butt. Behind the couch behind the couch find something else more interesting or hate dog but sweet beast. Hate dog. Swat at dog mark territory but nap all day stare at ceiling claw drapes. Under the bed give attitude for need to chase tail shake treat bag intently sniff hand so sleep on keyboard yet rub face on everything. Chew foot throwup on your pillow climb leg, use lap as chair yet rub face on everything. Burrow under covers hide when guests come over stick butt in face so use lap as chair missing until dinner time, throwup on your pillow. Missing until dinner time. Burrow under covers. Give attitude need to chase tail. Sleep on keyboard give attitude so under the bed. Hunt anything that moves rub face on everything.
- <!--[my site](http://mademistakes.com)[^1] --> </p>
+      <p>Naomi is building and learning all kinds of things.</p>
 
-<h2 id="naomi-is-all-about">Naomi is all about:</h2>
+<h2 id="recent-projects">Recent Projects:</h2>
 
-<ul>
-  <li>Bacon ipsum dolor sit amet landjaeger beef porchetta sirloin t-bone </li>
-  <li>Pancetta sausage chuck, tail shankle pork belly porchetta flank. Short loin ground round fatback, swine capicola rump </li>
-  <li>Meatball kevin brisket short loin landjaeger</li>
-  <li>Beef boudin pork belly pastrami. Pig cow fatback rump ribeye chuck pork</li>
-  <li>Doner rump ham, ham hock biltong meatball hamburger beef meatloaf</li>
-  <li>Wonderment at the number of names we have for bacon, drunkenness and sorrow</li>
-</ul>
+<ol>
+  <li><a href="http://google.ca">A Beautiful One</a> <code>gem install factorygirl</code>. Inspired by <a href="http://jekyllrb.com">Jekyll</a>.</li>
+  <li>Fork the <a href="https://github.com/summerspirit/pomegranates/fork">Meteor repo</a>.</li>
+  <li>Top secret Ghanian APIs.</li>
+  <li>Open data projects.</li>
+  <li>Something about fish. FishMangler Master!</li>
+  <li>Read the documentation below for further enlightenment.</li>
+</ol>
 
-<p><br />
-<a href="#" class="btn">Another Site</a></p>
+<div><a href="#" class="btn">Download the iOS project</a></div>
+
+<p><em>Why can’t I just download your app?</em> <br />
+Because I can’t afford an iTunes dev account. </p>
+
+<div><a href="#" class="btn btn-success">Help Fund Naomi's Dev Account</a></div>
+
+<p class="notice"><strong>Pro-tip:</strong> You can learn important things by paying attention to these boxes. Not this one in particular, but probably the next one you find.</p>
+
+<hr />
+
+<h2 id="folder-structure">Folder Structure</h2>
+
+<div class="highlight"><pre><code class="text">minimal-mistakes/
+├── _includes/
+|    ├── _author-bio.html        # bio stuff layout. pulls optional owner data from _config.yml
+|    ├── _browser-upgrade.html   # prompt to install a modern browser for &lt; IE9
+|    ├── _footer.html            # site footer
+|    ├── _head.html              # site head
+|    ├── _navigation.html        # site top navigation
+|    └── _scripts.html           # site scripts
+├── _layouts/
+|    ├── home.html               # homepage layout
+|    ├── page.html               # page layout
+|    ├── post-index.html         # post index layout
+|    └── post.html               # single post layout
+├── _posts/                      # MarkDown formatted posts
+├── assets/
+|    ├── css/                    # site stylesheets
+|    ├── fonts/                  # webfonts
+|    ├── js/
+|    |   ├── _main.js            # main JavaScript file, plugin settings, etc
+|    |   ├── plugins/            # scripts and jQuery plugins to combine with _main.js
+|    |   ├── scripts.min.js      # concatenated and minified _main.js + plugin scripts
+|    |   └── vendor/             # vendor scripts to leave alone and load as is
+|    └── less/
+├── images/                      # images for posts and pages
+├── about.md                     # sample about page
+├── posts.md                     # sample post index page. lists all posts in reverse chronology
+└── index.md                     # sample homepage. lists 5 latest posts
+</code></pre></div>
+
+<hr />
+
+<h2 id="multi-part-project">Multi-Part Project</h2>
+
+<h3 id="once-upon-a-time">Once Upon a Time</h3>
+
+<p>Lucas ipsum dolor sit amet fett moff windu hutt greedo binks jawa organa leia darth. Organa moff calamari jinn darth kashyyyk palpatine hutt. Ewok r2-d2 jabba utapau. Droid darth solo skywalker bespin calamari padmé. Obi-wan leia mace gamorrean windu windu darth. Palpatine twi’lek skywalker tatooine amidala. Moff windu yoda thrawn fett binks grievous. Solo darth binks palpatine mothma calrissian antilles tusken raider. Bespin han gonk c-3po grievous. K-3po palpatine kenobi solo mara luke. Jinn mon ahsoka skywalker sidious antilles.</p>
+
+<h4 id="in-a-galaxy-far-far-away-">In a Galaxy Far, Far Away …</h4>
+
+<p>Dagobah tatooine padmé yoda obi-wan skywalker kenobi. Luuke hutt hutt hoth antilles qui-gon organa wampa. Hutt binks maul mon yavin organa. K-3po antilles organa antilles fisto luuke luke wedge darth. Jade bespin coruscant solo zabrak ben moff darth jinn. Hutt baba jango amidala yoda mon organa luke obi-wan. Calrissian greedo moff aayla mandalore fisto.Kenobi organa yoda kit. Luke organa r2-d2 antilles padmé hutt boba fett. Qui-gon gonk ventress hutt dooku yavin skywalker. Skywalker organa secura mandalorians.</p>
+
 
     </div><!-- /.article-wrap -->
     
@@ -168,8 +221,6 @@
 <script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="http://localhost:4000/assets/js/scripts.min.js"></script>
 
-
-  
           
 
 </body>
