@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "A Ruby on Rails learner blog."
+tags: [Ruby on Rails]
 image:
   feature: texture-feature-03.jpg
   credit: Texture Lovers
