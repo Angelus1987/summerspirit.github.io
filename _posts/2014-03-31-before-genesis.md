@@ -2,7 +2,8 @@
 layout: post
 title: Before Genesis
 description: "Inserting a post chronologically before the First Post. Video on Meteor.js"
-modified: 2014-04-02 13:28:12 -0400
+modified: 2014-03-02 13:28:12 -0400
+category: poetry
 tags: [meteor.js]
 image:
   feature: texture-feature-05.jpg

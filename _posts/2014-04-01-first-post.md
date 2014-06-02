@@ -3,6 +3,7 @@ layout: post
 title: First Post
 description: "A post wherein there is no real content and the author waxes on about her own self-importance in the world."
 modified: 2014-04-01
+category: code
 tags: [intro]
 comments: true
 image:

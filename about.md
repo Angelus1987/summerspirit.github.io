@@ -11,7 +11,15 @@ image:
   <!--credit: Texture Lovers
   creditlink: http://texturelovers.com -->
 ---
-Cat ipsum dolor sit amet, flop over lick butt. Behind the couch behind the couch find something else more interesting or hate dog but sweet beast. Hate dog. Swat at dog mark territory but nap all day stare at ceiling claw drapes. Under the bed give attitude for need to chase tail shake treat bag intently sniff hand so sleep on keyboard yet rub face on everything. Chew foot throwup on your pillow climb leg, use lap as chair yet rub face on everything. Burrow under covers hide when guests come over stick butt in face so use lap as chair missing until dinner time, throwup on your pillow. Missing until dinner time. Burrow under covers. Give attitude need to chase tail. Sleep on keyboard give attitude so under the bed. Hunt anything that moves rub face on everything.
+I am a multi-faceted life-juggler that brings the hustle to whatever I do. I leverage abstract thinking with big ideas and am uniquely skilled to also build the tools to realize them. I will import the strategy to your movements to make forward-thinking change happen.
+
+My programming capacities include:Ruby, and Rails....etc. I use my coding knowledge to inform my strategy decisions.
+
+I am committed to civic participation, by any means necessary: from hacking to political debate, Twitter to poetry.  I have seen and personally evidenced that each of us can be the change we seek.
+
+Teaching, mutual learning, and collaboration between all kinds of unlikely partners is a mechanism by which we can achieve these changes.  
+
+If you need programming help, you can book me here: and here:
  <!--[my site](http://mademistakes.com)[^1] --> 
 
 ## Naomi is all about:

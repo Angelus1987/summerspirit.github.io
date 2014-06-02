@@ -1,0 +1,31 @@
+``` ruby
+require 'glass_slippers'
+
+data = { :key => 'value' }
+till_midnight = 60 # 1 minute
+
+id = GlassSlippers.transforms(data, till_midnight) do |data|
+  data.each do |key, value|
+    data.tap { |d| d[key].upcase! }
+  end
+end
+
+puts GlassSlippers.get(id) # => { :key => 'VALUE' }
+
+# we'll randomly reset the data before the time expires...
+if (rand() * 2).to_i == 1
+  puts "Resetting data early"
+  GlassSlippers.midnight(id)
+end
+
+sleep 10
+
+# if reset early     == { :key => 'value' }
+# if not reset early == { :key => 'VALUE' }
+puts GlassSlippers.get(id)
+
+sleep 60
+
+# time has expired by this point so == { :key => 'value' }
+puts GlassSlippers.get(id)
+```

@@ -2,27 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Naomi's Most Excellent Site</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-04-02T14:15:03-04:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://summerspirit.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://summerspirit.github.io" />
+<updated>2014-04-02T19:00:50-04:00</updated>
+<id>http://summerspirit.github.io/</id>
 <author>
   <name>Naomi</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://summerspirit.github.io/</uri>
   <email>your@email.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[First Post]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/first-post/" />
-  <id>http://localhost:4000/first-post</id>
+  <link rel="alternate" type="text/html" href="http://summerspirit.github.io/first-post/" />
+  <id>http://summerspirit.github.io/first-post</id>
   <updated>2014-04-01T00:00:00-00:00</updated>
   <published>2014-04-01T00:00:00-04:00</published>
   
   <author>
     <name>Naomi</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://summerspirit.github.io</uri>
     <email>your@email.com</email>
   </author>
   <content type="html">&lt;h1 id=&quot;a-beautiful-heading&quot;&gt;A Beautiful Heading&lt;/h1&gt;
@@ -31,7 +31,7 @@
 
 &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;Nullam&lt;/strong&gt; dignissim convallis est. Quisque aliquam.&lt;/p&gt;
 
-&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;http://summerspirit.github.io/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Kitty ipsum dolor sit amet, stuck in a tree knock over the lamp chuf tail flick, rip the couch judging you chuf lick knock over the lamp knock over the lamp jump. Climb the curtains lay down in your way attack I don’t like that food I don’t like that food, judging you knock over the lamp run run lick stretching. Feed me sleep in the sink judging you catnip, sleep in the sink tail flick knock over the lamp jump on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree fluffy fur jump, tail flick zzz meow litter box catnip eat stretching. Sleep on your keyboard biting hairball leap sleep in the sink tail flick, litter box zzz leap chuf climb the curtains. Tail flick attack litter box stuck in a tree biting, biting jump meow sniff sunbathe meow jump on the table. Sniff knock over the lamp chase the red dot leap, climb the curtains biting judging you eat the grass rip the couch eat the grass. Lick sunbathe run meow eat, jump I don’t like that food biting chuf sniff.
 &lt;br /&gt;&lt;/p&gt;
@@ -53,20 +53,20 @@ I don’t like that food judging you sunbathe I don’t like that food litter bo
   &lt;dd&gt;definition 2&lt;/dd&gt;
 &lt;/dl&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/first-post/&quot;&gt;First Post&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://localhost:4000&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on April 01, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/first-post/&quot;&gt;First Post&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on April 01, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Before Genesis]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/before-genesis/" />
-  <id>http://localhost:4000/before-genesis</id>
+  <link rel="alternate" type="text/html" href="http://summerspirit.github.io/before-genesis/" />
+  <id>http://summerspirit.github.io/before-genesis</id>
   <updated>2014-04-02 13:28:12 -0400T00:00:00-00:00</updated>
   <published>2014-03-31T00:00:00-04:00</published>
   
   <author>
     <name>Naomi</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://summerspirit.github.io</uri>
     <email>your@email.com</email>
   </author>
   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/lSAKFkxq4jA&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
@@ -147,7 +147,7 @@ Hello there! What’s that? A responsive video? :o&lt;/p&gt;
 &lt;a href=&quot;http://it-ebooks.info/go.php?id=1354-1396471669-dd28748c22b86ed5f0217f88365ad35b&quot; class=&quot;btn btn-success&quot;&gt;Download a free, unrelated book!&lt;/a&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/before-genesis/&quot;&gt;Before Genesis&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://localhost:4000&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on March 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/before-genesis/&quot;&gt;Before Genesis&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on March 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
