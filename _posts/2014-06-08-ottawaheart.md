@@ -19,8 +19,7 @@ comments: true
 Let's start at the end, because if you don't want to read this, I know I'll lose your attention in 10 seconds.
 
 Check this: 
-<!--<a href="http://myjam.co" target="_blank">My Jam!</a>-->
-
+<a href="http://myjam.co" target="_blank">My Jam!</a>
 ![My Jam pitch at Start-Up Ottawa]({{ site.url }}/images/myjam.jpg)
 {: .image-pull-right}
 
