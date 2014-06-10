@@ -23,7 +23,7 @@ Check this:
 </p>
 <p>
 
-[My Jam on stage]({{ site.url }}/images/myjam.jpg)
+![My Jam on stage]({{ site.url }}/images/myjam.jpg)
 <!--{: .image-pull-right}-->
 </p>
 
