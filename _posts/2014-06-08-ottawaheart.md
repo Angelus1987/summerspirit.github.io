@@ -33,7 +33,8 @@ Luke is a phenomenal mobile dev and designer I met in my Rails bootcamp last sum
 
 In his spare time he does beautiful macro photography for fun and makes mind-bending things with Photoshop.
 
-He attended Start-Up Weekend Ottawa this weekend, and in 48 hours he and his team developed a fully functional business concept, income streams, a prototype and won.  <a href="http://ottawa.startupweekend.org/" target="_blank">More About Start-Up Ottawa Weekend</a>
+He attended Start-Up Weekend Ottawa this weekend, and in 48 hours he and his team developed a fully functional business concept, income streams, a prototype and won.  
+<a href="http://ottawa.startupweekend.org/" target="_blank">More About Start-Up Ottawa Weekend</a>
 
 
 I led a team in the Start-Up Social Enterprise Ottawa last summer at Hub Ottawa, and this is no easy feat. 
