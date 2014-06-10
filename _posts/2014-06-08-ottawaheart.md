@@ -26,8 +26,21 @@ Check this:
 <br />
 <br />
 <br />
+### So what's this all about?
+
+Luke is a phenomenal mobile dev and designer I met in my Rails bootcamp last summer. He just graduated from Algonquin College top of his class in the inaugural Mobile Dev and Design cohort. He was a PA during his time there, assisting first-year students with a variety of coding challenges, while also tackling his work, across platforms (Android, iOS - he went to conferences and learned some Windows for mobile). Tweet at him here: @lucasjmoore
+
+In his spare time he does beautiful macro photography for fun and makes mind-bending things with Photoshop.
+
+He attended Start-Up Weekend Ottawa this weekend, and in 48 hours he and his team developed a fully functional business concept, income streams, a prototype and won. http://ottawa.startupweekend.org/
+
+I led a team in the Start-Up Social Enterprise Ottawa last summer at Hub Ottawa, and this is no easy feat. 
+
+My Jam won both the Best Design award and won the competition overall. Congrats! 
+
+<br />
 <hr />
-I left my hotel Sunday at 7 a.m. I had to take a taxi because the shuttle doesn't run until 9. I had to wait 20 minutes for a metro because track repairs (but at least, unlike Toronto, it was still running). I had to wait 30 minutes for the airport bus from L'Enfant. Then that bus took 1.5 hours to get to the airport. Still, I somehow arrived a full hour before flight check-in.
+As for me today, I left my hotel Sunday at 7 a.m. I had to take a taxi because the shuttle doesn't run until 9. I had to wait 20 minutes for a metro because track repairs (but at least, unlike Toronto, it was still running). I had to wait 30 minutes for the airport bus from L'Enfant. Then that bus took 1.5 hours to get to the airport. Still, I somehow arrived a full hour before flight check-in.
 
 I had a coffee and a Cinnabon. Life was pretty good. I return to the check-in line to find a line and a sign: Delayed. I check Twitter, which helpfully tells me all flights are grounded because all of Porter's computers are down. They have no further information.
 <br />
@@ -42,15 +55,6 @@ Then, this cabbie in a little hat, turned the Bollywood pop way up. Way way up. 
 Are you having a horrendous day? Just listen to some of this:
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=TT0APvQfS-A" frameborder="0"> </iframe>
 
+Right now, this my jam ;)
 
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-term
-: definition 1
-: definition 2
+Have a great night everyone.
