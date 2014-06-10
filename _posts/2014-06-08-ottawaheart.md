@@ -29,11 +29,12 @@ Check this:
 <p>
 #### So what's this all about?
 </p>
-Luke is a phenomenal mobile dev and designer I met in my Rails bootcamp last summer. He just graduated from Algonquin College top of his class in the inaugural Mobile Dev and Design cohort. He was a PA during his time there, assisting first-year students with a variety of coding challenges, while also tackling his work, across platforms (Android, iOS - he went to conferences and learned some Windows for mobile). Tweet at him here: @lucasjmoore
+Luke is a phenomenal mobile dev and designer I met in my Rails bootcamp last summer. He just graduated from Algonquin College top of his class in the inaugural Mobile Dev and Design cohort. He was a PA during his time there, assisting first-year students with a variety of coding challenges, while also tackling his work, across platforms (Android, iOS - he went to conferences and learned some Windows for mobile). Tweet at him here: <a href="https://twitter.com/LucasJMoore" target="_blank">@lucasjmoore</a>
 
 In his spare time he does beautiful macro photography for fun and makes mind-bending things with Photoshop.
 
-He attended Start-Up Weekend Ottawa this weekend, and in 48 hours he and his team developed a fully functional business concept, income streams, a prototype and won. http://ottawa.startupweekend.org/
+He attended Start-Up Weekend Ottawa this weekend, and in 48 hours he and his team developed a fully functional business concept, income streams, a prototype and won.  <a href="http://ottawa.startupweekend.org/" target="_blank">More About Start-Up Ottawa Weekend</a>
+
 
 I led a team in the Start-Up Social Enterprise Ottawa last summer at Hub Ottawa, and this is no easy feat. 
 
