@@ -29,7 +29,8 @@ Check this:
 
 <hr />
 I left my hotel Sunday at 7 a.m. I had to take a taxi because the shuttle doesn't run until 9. I had to wait 20 minutes for a metro because track repairs (but at least, unlike Toronto, it was still running). I had to wait 30 minutes for the airport bus from L'Enfant. Then that bus took 1.5 hours to get to the airport. Still, I somehow arrived a full hour before flight check-in.
-
+![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
+{: .image-pull-right}
 I had a coffee and a Cinnabon. Life was pretty good. I return to the check-in line to find a line and a sign: Delayed. I check Twitter, which helpfully tells me all flights are grounded because all of Porter's computers are down. They have no further information.
 <br />
 The next few hours eventually escalated into an airline attendant cussing at me, ripping my boarding pass up and forcing me to the end of the line after I had found some way to get access to enough American cash to get on the plane, since 1. they didn't accept my Visa debit I had used to go from Toronto to D.C., and successfully used as a credit card at every single retailer, hotel, taxi and other service in D.C. and 2. they wouldn't take Canadian cash
