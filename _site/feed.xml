@@ -2,36 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Naomi's Most Excellent Site</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://summerspirit.github.io#http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://summerspirit.github.io#http://localhost:4000" />
-<updated>2014-06-02T19:42:29-04:00</updated>
-<id>http://summerspirit.github.io#http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://summerspirit.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://summerspirit.github.io" />
+<updated>2014-06-09T22:31:57-04:00</updated>
+<id>http://summerspirit.github.io/</id>
 <author>
   <name>Naomi</name>
-  <uri>http://summerspirit.github.io#http://localhost:4000/</uri>
+  <uri>http://summerspirit.github.io/</uri>
   <email>your@email.com</email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[First Post]]></title>
-  <link rel="alternate" type="text/html" href="http://summerspirit.github.io#http://localhost:4000/code/first-post/" />
-  <id>http://summerspirit.github.io#http://localhost:4000/code/first-post</id>
+  <title type="html"><![CDATA[Travel]]></title>
+  <link rel="alternate" type="text/html" href="http://summerspirit.github.io/code/travel/" />
+  <id>http://summerspirit.github.io/code/travel</id>
   <updated>2014-04-01T00:00:00-00:00</updated>
-  <published>2014-04-01T00:00:00-04:00</published>
+  <published>2014-06-04T00:00:00-04:00</published>
   
   <author>
     <name>Naomi</name>
-    <uri>http://summerspirit.github.io#http://localhost:4000</uri>
+    <uri>http://summerspirit.github.io</uri>
     <email>your@email.com</email>
   </author>
-  <content type="html">&lt;h1 id=&quot;a-beautiful-heading&quot;&gt;A Beautiful Heading&lt;/h1&gt;
+  <content type="html">&lt;h1 id=&quot;leaving-on-a-jet-plane&quot;&gt;Leaving on a jet plane&lt;/h1&gt;
 
-&lt;h3 id=&quot;i-am-inside-the-body-of-the-post&quot;&gt;I am inside the body of the post.&lt;/h3&gt;
+&lt;h3 id=&quot;landed-at-living-social-for-the-rails-girls-dc-installation-party&quot;&gt;Landed at Living Social for the Rails Girls D.C. installation party!&lt;/h3&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;Nullam&lt;/strong&gt; dignissim convallis est. Quisque aliquam.&lt;/p&gt;
 
-&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;http://summerspirit.github.io#http://localhost:4000/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;http://summerspirit.github.io/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Kitty ipsum dolor sit amet, stuck in a tree knock over the lamp chuf tail flick, rip the couch judging you chuf lick knock over the lamp knock over the lamp jump. Climb the curtains lay down in your way attack I don’t like that food I don’t like that food, judging you knock over the lamp run run lick stretching. Feed me sleep in the sink judging you catnip, sleep in the sink tail flick knock over the lamp jump on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree fluffy fur jump, tail flick zzz meow litter box catnip eat stretching. Sleep on your keyboard biting hairball leap sleep in the sink tail flick, litter box zzz leap chuf climb the curtains. Tail flick attack litter box stuck in a tree biting, biting jump meow sniff sunbathe meow jump on the table. Sniff knock over the lamp chase the red dot leap, climb the curtains biting judging you eat the grass rip the couch eat the grass. Lick sunbathe run meow eat, jump I don’t like that food biting chuf sniff.
 &lt;br /&gt;&lt;/p&gt;
@@ -53,20 +53,64 @@ I don’t like that food judging you sunbathe I don’t like that food litter bo
   &lt;dd&gt;definition 2&lt;/dd&gt;
 &lt;/dl&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io#http://localhost:4000/code/first-post/&quot;&gt;First Post&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io#http://localhost:4000&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on April 01, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/code/travel/&quot;&gt;Travel&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on June 04, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[First Post]]></title>
+  <link rel="alternate" type="text/html" href="http://summerspirit.github.io/code/first-post/" />
+  <id>http://summerspirit.github.io/code/first-post</id>
+  <updated>2014-04-01T00:00:00-00:00</updated>
+  <published>2014-04-01T00:00:00-04:00</published>
+  
+  <author>
+    <name>Naomi</name>
+    <uri>http://summerspirit.github.io</uri>
+    <email>your@email.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;a-beautiful-heading&quot;&gt;A Beautiful Heading&lt;/h1&gt;
+
+&lt;h3 id=&quot;i-am-inside-the-body-of-the-post&quot;&gt;I am inside the body of the post.&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;Nullam&lt;/strong&gt; dignissim convallis est. Quisque aliquam.&lt;/p&gt;
+
+&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;http://summerspirit.github.io/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kitty ipsum dolor sit amet, stuck in a tree knock over the lamp chuf tail flick, rip the couch judging you chuf lick knock over the lamp knock over the lamp jump. Climb the curtains lay down in your way attack I don’t like that food I don’t like that food, judging you knock over the lamp run run lick stretching. Feed me sleep in the sink judging you catnip, sleep in the sink tail flick knock over the lamp jump on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree fluffy fur jump, tail flick zzz meow litter box catnip eat stretching. Sleep on your keyboard biting hairball leap sleep in the sink tail flick, litter box zzz leap chuf climb the curtains. Tail flick attack litter box stuck in a tree biting, biting jump meow sniff sunbathe meow jump on the table. Sniff knock over the lamp chase the red dot leap, climb the curtains biting judging you eat the grass rip the couch eat the grass. Lick sunbathe run meow eat, jump I don’t like that food biting chuf sniff.
+&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt; Strive not to be a success, but rather to be of value. –Albert Einstein &lt;/blockquote&gt;
+&lt;p&gt;&lt;br /&gt;
+I don’t like that food judging you sunbathe I don’t like that food litter box zzz, hairball run climb the curtains judging you puking toss the mousie. Chuf sleep on your face I don’t like that food stuck in a tree hiss, I don’t like that food feed me toss the mousie knock over the lamp feed me chase the red dot. Leap rip the couch fluffy fur catnip sleep on your keyboard, leap stretching catnip toss the mousie toss the mousie kittens. Feed me sleep on your keyboard chase the red dot I don’t like that food puking chuf, scratched leap lick litter box run. Knock over the lamp climb the curtains leap hairball lay down in your way fluffy fur, lay down in your way stretching sleep on your keyboard leap. Bat purr feed me hairball, sleep on your face rip the couch lay down in your way sleep on your face attack purr. Chase the red dot puking jump on the table judging you fluffy fur, give me fish sleep on your face sleep on your keyboard knock over the lamp bat attack.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;term&lt;/dt&gt;
+  &lt;dd&gt;definition 1&lt;/dd&gt;
+  &lt;dd&gt;definition 2&lt;/dd&gt;
+&lt;/dl&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/code/first-post/&quot;&gt;First Post&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on April 01, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Before Genesis]]></title>
-  <link rel="alternate" type="text/html" href="http://summerspirit.github.io#http://localhost:4000/poetry/before-genesis/" />
-  <id>http://summerspirit.github.io#http://localhost:4000/poetry/before-genesis</id>
-  <updated>2014-03-02 12:28:12 -0500T00:00:00-00:00</updated>
+  <link rel="alternate" type="text/html" href="http://summerspirit.github.io/poetry/before-genesis/" />
+  <id>http://summerspirit.github.io/poetry/before-genesis</id>
+  <updated>2014-03-02 17:28:12 UTCT00:00:00-00:00</updated>
   <published>2014-03-31T00:00:00-04:00</published>
   
   <author>
     <name>Naomi</name>
-    <uri>http://summerspirit.github.io#http://localhost:4000</uri>
+    <uri>http://summerspirit.github.io</uri>
     <email>your@email.com</email>
   </author>
   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/lSAKFkxq4jA&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
@@ -147,7 +191,7 @@ Hello there! What’s that? A responsive video? :o&lt;/p&gt;
 &lt;a href=&quot;http://it-ebooks.info/go.php?id=1354-1396471669-dd28748c22b86ed5f0217f88365ad35b&quot; class=&quot;btn btn-success&quot;&gt;Download a free, unrelated book!&lt;/a&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io#http://localhost:4000/poetry/before-genesis/&quot;&gt;Before Genesis&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io#http://localhost:4000&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on March 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/poetry/before-genesis/&quot;&gt;Before Genesis&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on March 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
