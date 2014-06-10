@@ -15,17 +15,20 @@ comments: true
 ## Porter = #fail. Luke = all the win.
 
 ### I travel. I hate everything. I meet the best taxi driver in the world. Luke wins big in Ottawa. 
-
+<p>
 Let's start at the end, because if you don't want to read this, I know I'll lose your attention in 10 seconds.
-<br />
+</p>
+<p>
 Check this: 
-<a href="http://myjam.co" target="_blank">My Jam!</a>
 <br />
+<a href="http://myjam.co" target="_blank">My Jam!</a>
+![Smithsonian Image]({{ site.url }}/images/myjam.jpg)
+{: .image-pull-right}
+</p>
 <hr />
 I left my hotel Sunday at 7 a.m. I had to take a taxi because the shuttle doesn't run until 9. I had to wait 20 minutes for a metro because track repairs (but at least, unlike Toronto, it was still running). I had to wait 30 minutes for the airport bus from L'Enfant. Then that bus took 1.5 hours to get to the airport. Still, I somehow arrived a full hour before flight check-in.
 
-![Smithsonian Image]({{ site.url }}/images/myjam.jpg)
-{: .image-pull-right}
+
 
 I had a coffee and a Cinnabon. Life was pretty good. I return to the check-in line to find a line and a sign: Delayed. I check Twitter, which helpfully tells me all flights are grounded because all of Porter's computers are down. They have no further information.
 <br />
