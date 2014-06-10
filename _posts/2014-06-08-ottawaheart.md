@@ -23,7 +23,10 @@ Check this:
 ![My Jam pitch at Start-Up Ottawa]({{ site.url }}/images/myjam.jpg)
 {: .image-pull-right}
 
-<p>
+<br />
+<br />
+<br />
+<hr />
 I left my hotel Sunday at 7 a.m. I had to take a taxi because the shuttle doesn't run until 9. I had to wait 20 minutes for a metro because track repairs (but at least, unlike Toronto, it was still running). I had to wait 30 minutes for the airport bus from L'Enfant. Then that bus took 1.5 hours to get to the airport. Still, I somehow arrived a full hour before flight check-in.
 
 I had a coffee and a Cinnabon. Life was pretty good. I return to the check-in line to find a line and a sign: Delayed. I check Twitter, which helpfully tells me all flights are grounded because all of Porter's computers are down. They have no further information.
