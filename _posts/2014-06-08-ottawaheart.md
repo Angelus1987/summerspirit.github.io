@@ -24,7 +24,7 @@ Check this:
 <p>
 
 [My Jam on stage]({{ site.url }}/images/myjam.jpg)
-{: .image-pull-right}
+<!--{: .image-pull-right}-->
 </p>
 
 <hr />
