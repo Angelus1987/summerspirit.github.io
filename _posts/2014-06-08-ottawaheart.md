@@ -22,7 +22,7 @@ Check this:
 <a href="http://myjam.co" target="_blank">My Jam!</a>
 <br />
 
-[Smithsonian Image]({{ site.url }}/images/myjam.jpg)-->
+[Smithsonian Image]({{ site.url }}/images/myjam.jpg)
 {: .image-pull-right}
 <br />
 <hr />
