@@ -27,7 +27,7 @@ Check this:
 <br />
 <br />
 <p>
-### So what's this all about?
+#### So what's this all about?
 </p>
 Luke is a phenomenal mobile dev and designer I met in my Rails bootcamp last summer. He just graduated from Algonquin College top of his class in the inaugural Mobile Dev and Design cohort. He was a PA during his time there, assisting first-year students with a variety of coding challenges, while also tackling his work, across platforms (Android, iOS - he went to conferences and learned some Windows for mobile). Tweet at him here: @lucasjmoore
 
@@ -37,7 +37,9 @@ He attended Start-Up Weekend Ottawa this weekend, and in 48 hours he and his tea
 
 I led a team in the Start-Up Social Enterprise Ottawa last summer at Hub Ottawa, and this is no easy feat. 
 
-My Jam won both the Best Design award and won the competition overall. Congrats! 
+Their project, My Jam, won both the Best Design award and won the competition overall. Congrats!
+
+There's something so exquisitely satisfying about celebrating the successes of those you're closest to. You just get to have the pure joy and celebration of a win, without any of the doubts you'd have about your own projects. There's no hang-ups about what more could have been done, about those couple of pieces you missed, about what's next. When you're celebrating those around you, you already knew they could do amazing feats and you're just happy they've conquered a mountain.
 
 <br />
 <hr />
