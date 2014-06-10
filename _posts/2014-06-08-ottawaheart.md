@@ -27,7 +27,7 @@ Check this:
 <br />
 <br />
 <p>
-#### So what's this all about?
+<h3>So what's this all about?</h3>
 </p>
 Luke is a phenomenal mobile dev and designer I met in my Rails bootcamp last summer. He just graduated from Algonquin College top of his class in the inaugural Mobile Dev and Design cohort. He was a PA during his time there, assisting first-year students with a variety of coding challenges, while also tackling his work, across platforms (Android, iOS - he went to conferences and learned some Windows for mobile). Tweet at him here: <a href="https://twitter.com/LucasJMoore" target="_blank">@lucasjmoore</a>
 
