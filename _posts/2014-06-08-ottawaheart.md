@@ -11,7 +11,7 @@ comments: true
   credit: Texture Lovers
   creditlink: http://texturelovers.com -->
 ---
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=TT0APvQfS-A" frameborder="0"> </iframe>
+
 ## Porter = #fail. Luke = all the win.
 
 ### I travel. I hate everything. I meet the best taxi driver in the world. Luke wins big in Ottawa. 
@@ -60,10 +60,10 @@ Then, this cabbie in a little hat, turned the Bollywood pop way up. Way way up. 
 <br />
 Are you having a horrendous day? Just listen to some of this:
 <br />
+<p>
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=TT0APvQfS-A" frameborder="0"> </iframe>
+</p>
 <br />
 Right now, this my jam ;)
-<p>
-<iframe width="560" height="315" src="//www.youtube.com/embed/lSAKFkxq4jA" frameborder="0"> </iframe>
-</p>
+<br />
 Have a great night everyone.
