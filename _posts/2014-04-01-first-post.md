@@ -6,10 +6,10 @@ modified: 2014-04-01
 category: code
 tags: [intro]
 comments: true
-image:
+<!-- image:
   feature: texture-feature-05.jpg
   credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  creditlink: http://texturelovers.com -->
 ---
 
 # A Beautiful Heading
