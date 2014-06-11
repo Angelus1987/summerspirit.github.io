@@ -29,7 +29,14 @@
   {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
-
+{% if page.submenu %}
+            <h3>Chapter Contents</h3>
+            <ul>
+          {% for item in page.submenu %}
+              <li><a href="#{{ item.anchor }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+{% endif %}
 <div class="article-author-side">
   {% include _author-bio.html %}
 </div>
