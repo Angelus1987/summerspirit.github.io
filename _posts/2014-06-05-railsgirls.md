@@ -14,7 +14,7 @@ comments: true
 <script type="text/javascript">
 <!--
     function toggle_visibility(id) {
-       var e = document.getElementById(id);
+       var e = document.getElementById(foo);
        if(e.style.display == 'block')
           e.style.display = 'none';
        else
