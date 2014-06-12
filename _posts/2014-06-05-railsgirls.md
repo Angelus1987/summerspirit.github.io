@@ -2,7 +2,7 @@
 layout: post
 title: Rails Girls D.C.
 description: "Who Run the World?"
-modified: {{ page.modified | date: "%Y-%m-%d" }} {{ page.modified | date: "%B %d, %Y" }}
+modified: page.modified | date: "%Y-%m-%d"
 category: code
 tags: [code]
 comments: true
