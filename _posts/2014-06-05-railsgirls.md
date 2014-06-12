@@ -63,12 +63,18 @@ Girls run this world! But also women, ladies, even boys are allowed in. More tha
 
 TIL collect will return values and each will not
 
+This is the simplest way I've seen to install Bootstrap in Rails.
+I've been in a few hackathons recently where we spent far too much time trying to get Bootstrap in gear. It used to be really strong, but it's been causing more harm than good recently. A configuration used in Rails Girls seems to tame it:
+
 1. 
 {% highlight ruby %} gem install bootstrap-sass {% endhighlight %}
 2. In terminal, bundle install
 3. in assets - stylehseets - application, add:
 {% highlight ruby %} *= require bootstrap {% endhighlight %}
 
+The second advantage - and the reason we did it this way - is that you don't need much internet. With the gem, you're installing it once, and then with this *= require, it's like telling it to link to a stylesheet, which happens to be contained by the gem.
+
+It avoids you needing internet once it's installed, which was important for us, since the internet went down in our room. 
 <hr />
 
 The ladies were also introduced to MINASWAN
