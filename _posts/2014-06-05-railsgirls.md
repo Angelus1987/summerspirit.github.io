@@ -61,7 +61,7 @@ Copy-pasting rules. Programming per se isn’t central - you can’t really lear
 Girls run this world! But also women, ladies, even boys are allowed in. More than semantics we’re interested in a mindset. Both founders were born in the Spice Girls era, they don’t see the word girl as condescending or cutesy-cute.
 
 <hr />
-
+###Here are a couple of my takeaways:
 TIL:
 
 - collect will return values and each will not
@@ -69,6 +69,8 @@ TIL:
 (which is important for me right now because the hackathon I'm co-planning, we're about to create a mini site to take in emails for pre-registration, but I hadn't yet worked out how I'd get the emails back out of the database)
 
 <hr />
+###Painless Bootstrap
+*Bootstrap 3.1.1, Rails 4.1, Ruby 2.1.0*
 
 This is the simplest way I've seen to install Bootstrap in Rails.
 I've been in a few hackathons recently where we spent far too much time trying to get Bootstrap in gear. It used to be really strong, but it's been causing more harm than good recently. A configuration used in Rails Girls seems to tame it:
