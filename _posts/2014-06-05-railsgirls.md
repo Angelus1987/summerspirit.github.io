@@ -11,17 +11,6 @@ comments: true
   credit: Texture Lovers
   creditlink: http://texturelovers.com -->
 ---
-<script type="text/javascript">
-<!--
-    function toggle_visibility(id) {
-       var e = document.getElementById(foo);
-       if(e.style.display == 'block')
-          e.style.display = 'none';
-       else
-          e.style.display = 'block';
-    }
-//-->
-</script>
 
 # Literacy is a right
 
@@ -38,9 +27,6 @@ That. — at Silver Spring Civic Center
 <blockquote class="twitter-tweet" lang="en"><p>Got my coach hat (shirt) on :D Ready to help build some first apps today at <a href="https://twitter.com/search?q=%23RGDCworkshop&amp;src=hash">#RGDCworkshop</a> <a href="https://twitter.com/search?q=%23rails&amp;src=hash">#rails</a> <a href="http://t.co/UHliSEYRTC">pic.twitter.com/UHliSEYRTC</a></p>&mdash; Naomi Freeman (@Naomi_Freeman) <a href="https://twitter.com/Naomi_Freeman/statuses/474505257658372096">June 5, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a href="#" onclick="toggle_visibility('foo');">Click here to toggle visibility of element #foo</a>
-
-<div id="foo">This is foo</div>
 
 TIL collect will return values and each will not
 <hr />
