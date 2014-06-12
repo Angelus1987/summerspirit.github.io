@@ -41,5 +41,7 @@ term
 : definition 2
 
 <hr />
-### Beginner Guide to Command Line, by <a href="https://twitter.com/mad_typist">Jessie Link</a>: 
+### Resources
+## Beginner Guide to Command Line
+ by <a href="https://twitter.com/mad_typist">Jessie Link</a>: 
 <script async class="speakerdeck-embed" data-id="9d047860ce1f0131e1db2aa9d004a740" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
