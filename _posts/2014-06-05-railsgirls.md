@@ -39,7 +39,9 @@ That. — at Silver Spring Civic Center
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a href="#" onclick="toggle_visibility('foo');">Click here to toggle visibility of element #foo</a>
+
 <div id="foo">This is foo</div>
+
 TIL collect will return values and each will not
 <hr />
 
