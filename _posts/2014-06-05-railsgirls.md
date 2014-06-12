@@ -52,7 +52,7 @@ The two-day event includes a lot of small group working and short focused talks 
 
 
 <blockquote> "...transforms thinkers into creators." </blockquote>
-* -General Assembly's core goal in teaching their lessons *
+*-General Assembly's core goal in teaching their lessons*
 
 ###Rails Girls philosophy
 
