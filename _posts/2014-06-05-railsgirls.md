@@ -11,16 +11,35 @@ comments: true
   credit: Texture Lovers
   creditlink: http://texturelovers.com -->
 ---
+<script type="text/javascript">
+<!--
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+//-->
+</script>
 
-# Leaving on a jet plane
+# Literacy is a right
 
-### Landed at Living Social for the Rails Girls D.C. installation party!
+### And Scandinavians do it better
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **Nullam** dignissim convallis est. Quisque aliquam.
+This post feels like it's going to be a bit of a quilt. Sorry I'm still learning how to anchor tag in liquid/Github pages.
+
+I just did a [lightning talk on civic hacking], to a room full of new dev girls that I've Coached through their first app all day.
+
+You know that moment when you know you're doing the thing you're supposed to be doing?
+
+That. — at Silver Spring Civic Center
 
 <blockquote class="twitter-tweet" lang="en"><p>Got my coach hat (shirt) on :D Ready to help build some first apps today at <a href="https://twitter.com/search?q=%23RGDCworkshop&amp;src=hash">#RGDCworkshop</a> <a href="https://twitter.com/search?q=%23rails&amp;src=hash">#rails</a> <a href="http://t.co/UHliSEYRTC">pic.twitter.com/UHliSEYRTC</a></p>&mdash; Naomi Freeman (@Naomi_Freeman) <a href="https://twitter.com/Naomi_Freeman/statuses/474505257658372096">June 5, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<a href="#" onclick="toggle_visibility('foo');">Click here to toggle visibility of element #foo</a>
+<div id="foo">This is foo</div>
 TIL collect will return values and each will not
 <hr />
 
@@ -63,3 +82,6 @@ term
 <i>For Ruby/Rails installation, see [here]</i>
 
 <a href="http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html">Go to tutorial</a>
+
+<h2> Workshop Schedule - Rails Girls D.C. 2014 </h2>
+<a href="https://docs.google.com/document/d/1LCei7600elHliBVYJdourGZu0V9kSpsFKHzZuo4N5YI/edit" />Schedule
