@@ -43,6 +43,6 @@ term
 <hr />
 ### Resources
 <h2> Beginner Guide to Command Line </h2>
-
  by <a href="https://twitter.com/mad_typist">Jessie Link</a>: 
+ 
 <script async class="speakerdeck-embed" data-id="9d047860ce1f0131e1db2aa9d004a740" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
