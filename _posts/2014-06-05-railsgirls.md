@@ -61,4 +61,5 @@ term
 
 <h2> Ruby in 100 Minutes </h2>
 <i>For Ruby/Rails installation, see [here]</i>
+
 <a href="http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html">Go to tutorial</a>
