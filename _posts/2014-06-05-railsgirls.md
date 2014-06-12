@@ -16,7 +16,7 @@ comments: true
 
 ### And Scandinavians do it better
 
-This post feels like it's going to be a bit of a quilt. Just roll with me on this one. Also, sorry I'm still learning how to anchor tag in Liquid/Github pages and can't provide quick links to certain sections yet. If you know how to do that, and/or integrate JS, feel free to fork and send me a pull request: <a href="https://github.com/summerspirit/summerspirit.github.io/fork">For my blog!</a>
+This post feels like it's going to be a bit of a quilt. Just roll with me on this one. Also, sorry I'm still learning how to anchor tag in Liquid/Github pages and can't provide quick links to certain sections yet. If you know how to do that, and/or integrate JS, feel free to fork and send me a pull request: <a href="https://github.com/summerspirit/summerspirit.github.io/fork">Fork my blog!</a>
 
 I just did a [lightning talk on civic hacking], to a room full of new dev girls that I've Coached through their first app all day.
 
