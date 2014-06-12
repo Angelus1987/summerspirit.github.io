@@ -60,14 +60,16 @@ Copy-pasting rules. Programming per se isn’t central - you can’t really lear
 
 Girls run this world! But also women, ladies, even boys are allowed in. More than semantics we’re interested in a mindset. Both founders were born in the Spice Girls era, they don’t see the word girl as condescending or cutesy-cute.
 
+<hr />
 
 TIL collect will return values and each will not
+
+<hr />
 
 This is the simplest way I've seen to install Bootstrap in Rails.
 I've been in a few hackathons recently where we spent far too much time trying to get Bootstrap in gear. It used to be really strong, but it's been causing more harm than good recently. A configuration used in Rails Girls seems to tame it:
 
-1. 
-{% highlight ruby %} gem install bootstrap-sass {% endhighlight %}
+1. {% highlight ruby %} gem install bootstrap-sass {% endhighlight %}
 2. In terminal, bundle install
 3. in assets - stylehseets - application, add:
 {% highlight ruby %} *= require bootstrap {% endhighlight %}
