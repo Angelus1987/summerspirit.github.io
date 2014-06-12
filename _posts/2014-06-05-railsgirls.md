@@ -40,7 +40,7 @@ function toggle(id){
 <input type="button" onClick="showStuff('themes')" value="Show">
 <div id="themes" style="display:block">
     <h3>Stuff</h3>
-    
+
 ##The Rails Girls Way
 <i>from <a href="http://guides.railsgirls.com/guide">Rails Girls Guides</a></i>
 
@@ -62,6 +62,12 @@ Girls run this world! But also women, ladies, even boys are allowed in. More tha
 
 
 TIL collect will return values and each will not
+
+1. ``` gem install bootstrap-sass
+2. In terminal, bundle install
+3. in assets - stylehseets - application, add:
+``` *= require bootstrap 
+
 <hr />
 
 The ladies were also introduced to MINASWAN
@@ -79,14 +85,6 @@ on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree
 <br />
 I don't like that food judging you sunbathe I don't like that food litter box zzz, hairball run climb the curtains judging you puking toss the mousie. Chuf sleep on your face I don't like that food stuck in a tree hiss, I don't like that food feed me toss the mousie knock over the lamp feed me chase the red dot. Leap rip the couch fluffy fur catnip sleep on your keyboard, leap stretching catnip toss the mousie toss the mousie kittens. Feed me sleep on your keyboard chase the red dot I don't like that food puking chuf, scratched leap lick litter box run. Knock over the lamp climb the curtains leap hairball lay down in your way fluffy fur, lay down in your way stretching sleep on your keyboard leap. Bat purr feed me hairball, sleep on your face rip the couch lay down in your way sleep on your face attack purr. Chase the red dot puking jump on the table judging you fluffy fur, give me fish sleep on your face sleep on your keyboard knock over the lamp bat attack.
 <br />
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
 
 term
 : definition 1
