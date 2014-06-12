@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://summerspirit.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://summerspirit.github.io" />
-<updated>2014-06-10T16:04:21-04:00</updated>
+<updated>2014-06-12T17:30:16-04:00</updated>
 <id>http://summerspirit.github.io/</id>
 <author>
   <name>Naomi</name>
@@ -37,43 +37,54 @@
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
-&lt;br /&gt;
-### So what’s this all about?&lt;/p&gt;
-
-&lt;p&gt;Luke is a phenomenal mobile dev and designer I met in my Rails bootcamp last summer. He just graduated from Algonquin College top of his class in the inaugural Mobile Dev and Design cohort. He was a PA during his time there, assisting first-year students with a variety of coding challenges, while also tackling his work, across platforms (Android, iOS - he went to conferences and learned some Windows for mobile). Tweet at him here: @lucasjmoore&lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;h3&gt;So what&#39;s this all about?&lt;/h3&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ca.linkedin.com/in/lucasjmoore&quot; target=&quot;_blank&quot;&gt;Luke&lt;/a&gt; is a phenomenal mobile dev and designer I met in my Rails bootcamp last summer. He just graduated from Algonquin College top of his class in the inaugural Mobile Dev and Design cohort. He was a PA during his time there, assisting first-year students with a variety of coding challenges, while also tackling his work, across platforms (Android, iOS - he went to conferences and learned some Windows for mobile). Tweet at him here: &lt;a href=&quot;https://twitter.com/LucasJMoore&quot; target=&quot;_blank&quot;&gt;@lucasjmoore&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;In his spare time he does beautiful macro photography for fun and makes mind-bending things with Photoshop.&lt;/p&gt;
+
+&lt;p&gt;He attended Start-Up Weekend Ottawa this weekend, and in 48 hours he and his team developed a fully functional business concept, income streams, a prototype and won.&lt;br /&gt;
+&lt;a href=&quot;http://ottawa.startupweekend.org/&quot; target=&quot;_blank&quot;&gt;More About Start-Up Ottawa Weekend&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I led a team in the Start-Up Social Enterprise Ottawa last summer at Hub Ottawa, and this is no easy feat. &lt;/p&gt;
+
+&lt;p&gt;Their project, My Jam, won both the Best Design award and won the competition overall. Congrats!&lt;/p&gt;
+
+&lt;p&gt;There’s something so exquisitely satisfying about celebrating the successes of those you’re closest to. You just get to have the pure joy and celebration of a win, without any of the doubts you’d have about your own projects. There’s no hang-ups about what more could have been done, about those couple of pieces you missed, about what’s next. When you’re celebrating those around you, you already knew they could do amazing feats and you’re just happy they’ve conquered a mountain.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;As for me today, I left my hotel Sunday at 7 a.m. I had to take a taxi because the shuttle doesn’t run until 9. I had to wait 20 minutes for a metro because track repairs (but at least, unlike Toronto, it was still running). I had to wait 30 minutes for the airport bus from L’Enfant. Then that bus took 1.5 hours to get to the airport. Still, I somehow arrived a full hour before flight check-in.&lt;/p&gt;
-
-&lt;p&gt;I had a coffee and a Cinnabon. Life was pretty good. I return to the check-in line to find a line and a sign: Delayed. I check Twitter, which helpfully tells me all flights are grounded because all of Porter’s computers are down. They have no further information.
+&lt;p&gt;As for me today, I left my hotel Sunday at 7 a.m. I had to take a taxi because the shuttle doesn’t run until 9. I waited 20 minutes for a metro because track repairs (but at least, unlike Toronto, it was still running). I waited 30 minutes for the airport bus from L’Enfant. That bus took 1.5 hours to get to the airport. Still, I somehow arrived a full hour before flight check-in.
+&lt;br /&gt;
+&lt;br /&gt;
+I had a coffee and a Cinnabon. Life was pretty good. I returned to the check-in line to find a line and a sign: Delayed. I check Twitter, which helpfully tells me all flights are grounded because all of Porter’s computers are down. They have no further information.
+&lt;br /&gt;
 &lt;br /&gt;
 The next few hours eventually escalated into an airline attendant cussing at me, ripping my boarding pass up and forcing me to the end of the line after I had found some way to get access to enough American cash to get on the plane, since 1. they didn’t accept my Visa debit I had used to go from Toronto to D.C., and successfully used as a credit card at every single retailer, hotel, taxi and other service in D.C. and 2. they wouldn’t take Canadian cash
 &lt;br /&gt;
+&lt;br /&gt;
 Also, my Google Now knew a full 20 minutes before the flight attendants at the gate knew when boarding/departure would be. Thanks Google. WTF Porter?
+&lt;br /&gt;
 &lt;br /&gt;
 The flight was so late I missed my meeting. It was grey and drizzling when I landed. Thankfully when I got off, I got the most amazing cabbie in the world. He let me rant. He gave me water. And then he said - “Miss, we are turning today around right now.”
 &lt;br /&gt;
+&lt;br /&gt;
 Then, this cabbie in a little hat, turned the Bollywood pop way up. Way way up. And he danced for me at all the red lights. There were so many red lights. He even showed me a neat double hand snapping trick.
 &lt;br /&gt;
+&lt;br /&gt;
 Are you having a horrendous day? Just listen to some of this:
-&amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/watch?v=TT0APvQfS-A&quot; frameborder=&quot;0&quot;&amp;gt; &amp;lt;/iframe&amp;gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;term&lt;/dt&gt;
-  &lt;dd&gt;definition 1&lt;/dd&gt;
-  &lt;dd&gt;definition 2&lt;/dd&gt;
-&lt;/dl&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/TT0APvQfS-A&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+Right now, this my jam ;)
+&lt;br /&gt;
+Have a great night everyone.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/code/ottawaheart/&quot;&gt;Back In Motion&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on June 08, 2014.&lt;/p&gt;</content>
 </entry>
@@ -168,6 +179,143 @@ I don’t like that food judging you sunbathe I don’t like that food litter bo
 
 
 <entry>
+  <title type="html"><![CDATA[Rails Girls D.C.]]></title>
+  <link rel="alternate" type="text/html" href="http://summerspirit.github.io/code/railsgirls/" />
+  <id>http://summerspirit.github.io/code/railsgirls</id>
+  <published>2014-06-05T00:00:00-04:00</published>
+  <updated>2014-06-05T00:00:00-04:00</updated>
+  <author>
+    <name>Naomi</name>
+    <uri>http://summerspirit.github.io</uri>
+    <email>your@email.com</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;literacy-is-a-right&quot;&gt;Literacy is a right&lt;/h1&gt;
+
+&lt;h3 id=&quot;and-scandinavians-do-it-better&quot;&gt;And Scandinavians do it better&lt;/h3&gt;
+
+&lt;p&gt;This post feels like it’s going to be a bit of a quilt. Sorry I’m still learning how to anchor tag in liquid/Github pages.&lt;/p&gt;
+
+&lt;p&gt;I just did a [lightning talk on civic hacking], to a room full of new dev girls that I’ve Coached through their first app all day.&lt;/p&gt;
+
+&lt;p&gt;You know that moment when you know you’re doing the thing you’re supposed to be doing?&lt;/p&gt;
+
+&lt;p&gt;That. — at Silver Spring Civic Center&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Got my coach hat (shirt) on :D Ready to help build some first apps today at &lt;a href=&quot;https://twitter.com/search?q=%23RGDCworkshop&amp;amp;src=hash&quot;&gt;#RGDCworkshop&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search?q=%23rails&amp;amp;src=hash&quot;&gt;#rails&lt;/a&gt; &lt;a href=&quot;http://t.co/UHliSEYRTC&quot;&gt;pic.twitter.com/UHliSEYRTC&lt;/a&gt;&lt;/p&gt;&amp;mdash; Naomi Freeman (@Naomi_Freeman) &lt;a href=&quot;https://twitter.com/Naomi_Freeman/statuses/474505257658372096&quot;&gt;June 5, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+function toggle(id){
+    var elem = document.getElementById(id);
+    if(elem.style.display == &#39;block&#39;){
+        elem.style.display == &#39;none&#39;
+    } else if(elem.style.display == &#39;none&#39;){
+        elem.style.display == &#39;block&#39;
+    }
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;hideStuff(&#39;themes&#39;)&quot; value=&quot;Hide&quot; /&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;showStuff(&#39;themes&#39;)&quot; value=&quot;Show&quot; /&gt;
+&amp;lt;div id=&quot;themes&quot; style=&quot;display:block&quot;&amp;gt;
+    &amp;lt;h3&amp;gt;Stuff&amp;lt;/h3&amp;gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-rails-girls-way&quot;&gt;The Rails Girls Way&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;from &lt;a href=&quot;http://guides.railsgirls.com/guide&quot;&gt;Rails Girls Guides&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-basics&quot;&gt;The Basics&lt;/h3&gt;
+
+&lt;p&gt;Rails Girls events are non-profit. We don’t charge the participants and do not pay for coaches or speakers. Participants don’t need any previous knowledge about programming and there are no age-limitations. All the participants need is a laptop and some curiosity.&lt;/p&gt;
+
+&lt;p&gt;The two-day event includes a lot of small group working and short focused talks on programming, design and web. No panel discussions or podium-talks - the spirit should be informal and hands-on. The more you can remove abstractions and add inclusivity the better.&lt;/p&gt;
+
+&lt;h3 id=&quot;rails-girls-philosophy&quot;&gt;Rails Girls philosophy&lt;/h3&gt;
+
+&lt;p&gt;Show sparks, personality and keep in mind the big picture. Explain, repeat and always tie what you’re telling into a larger context.&lt;/p&gt;
+
+&lt;p&gt;Internet was made by people and it doesn’t break by a little tinkering. Continuously show the human side: encourage coaches to talk about open source communities, their programming idols and their aspirations.&lt;/p&gt;
+
+&lt;p&gt;Copy-pasting rules. Programming per se isn’t central - you can’t really learn to speak Chinese in one day, in a similar manner you can only learn the basic vocabulary and expressions in coding. The goal of every event is to make something visible!&lt;/p&gt;
+
+&lt;p&gt;Girls run this world! But also women, ladies, even boys are allowed in. More than semantics we’re interested in a mindset. Both founders were born in the Spice Girls era, they don’t see the word girl as condescending or cutesy-cute.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;TIL:
+- collect will return values and each will not
+- creating a rake task will be the easiest way to retrieve emails from a database
+(which is important for me right now because the hackathon I’m co-planning, we’re about to create a mini site to take in emails for pre-registration, but I hadn’t yet worked out how I’d get the emails back out of the database)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This is the simplest way I’ve seen to install Bootstrap in Rails.
+I’ve been in a few hackathons recently where we spent far too much time trying to get Bootstrap in gear. It used to be really strong, but it’s been causing more harm than good recently. A configuration used in Rails Girls seems to tame it:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt; &lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bootstrap&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sass&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In terminal, bundle install&lt;/li&gt;
+  &lt;li&gt;in assets - stylehseets - application, add:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt; &lt;span class=&quot;o&quot;&gt;*=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bootstrap&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;The second advantage - and the reason we did it this way - is that you don’t need much internet. With the gem, you’re installing it once, and then with this *= require, it’s like telling it to link to a stylesheet, which happens to be contained by the gem.&lt;/p&gt;
+
+&lt;p&gt;It avoids you needing internet once it’s installed, which was important for us, since the internet went down in our room. &lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;The ladies were also introduced to MINASWAN
+(Matz is nice and so we are nice)&lt;/p&gt;
+
+&lt;p class=&quot;image-pull-center&quot;&gt;&lt;img src=&quot;http://summerspirit.github.io/images/yukihiro_matsumoto_bw.jpg&quot; alt=&quot;Matz&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;http://embed.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit.html&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt; &quot;...transforms thinkers into creators.&quot; &lt;/blockquote&gt;
+&lt;p&gt;on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree fluffy fur jump, tail flick zzz meow litter box catnip eat stretching. Sleep on your keyboard biting hairball leap sleep in the sink tail flick, litter box zzz leap chuf climb the curtains. Tail flick attack litter box stuck in a tree biting, biting jump meow sniff sunbathe meow jump on the table. Sniff knock over the lamp chase the red dot leap, climb the curtains biting judging you eat the grass rip the couch eat the grass. Lick sunbathe run meow eat, jump I don’t like that food biting chuf sniff.
+&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt; The worst day of being a programmer is better than my best day at my previous work. &lt;/blockquote&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;more-about-what-is-rails-girls&quot;&gt;More About “What is Rails Girls?”&lt;/h3&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/_rkkFdQeBlA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;i&gt; With liquid + embed, I can’t set this video to a start time. It begins at 1:57. &lt;/i&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;term&lt;/dt&gt;
+  &lt;dd&gt;definition 1&lt;/dd&gt;
+  &lt;dd&gt;definition 2&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;contribute&quot;&gt;Contribute&lt;/h3&gt;
+&lt;p&gt;All of the Rails Girls guides are open source and can be contributed to &lt;a href=&quot;https://github.com/railsgirls/railsgirls.github.com&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;h2&gt; Beginner Guide to Command Line &lt;/h2&gt;
+&lt;p&gt;by &lt;a href=&quot;https://twitter.com/mad_typist&quot;&gt;Jessie Link&lt;/a&gt;: &lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;9d047860ce1f0131e1db2aa9d004a740&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h2&gt; Ruby in 100 Minutes &lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;For Ruby/Rails installation, see [here]&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html&quot;&gt;Go to tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt; Workshop Schedule - Rails Girls D.C. 2014 &lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1LCei7600elHliBVYJdourGZu0V9kSpsFKHzZuo4N5YI/edit&quot;&gt;&lt;/a&gt;Schedule&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/code/railsgirls/&quot;&gt;Rails Girls D.C.&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on June 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Travel]]></title>
   <link rel="alternate" type="text/html" href="http://summerspirit.github.io/code/travel/" />
   <id>http://summerspirit.github.io/code/travel</id>
@@ -179,33 +327,68 @@ I don’t like that food judging you sunbathe I don’t like that food litter bo
     <uri>http://summerspirit.github.io</uri>
     <email>your@email.com</email>
   </author>
-  <content type="html">&lt;h1 id=&quot;leaving-on-a-jet-plane&quot;&gt;Leaving on a jet plane&lt;/h1&gt;
+  <content type="html">&lt;p&gt;&lt;a href=&quot;@wiki-travel&quot;&gt;link to heading 1&lt;/a&gt;
+# Leaving on a jet plane&lt;/p&gt;
 
 &lt;h3 id=&quot;landed-at-living-social-for-the-rails-girls-dc-installation-party&quot;&gt;Landed at Living Social for the Rails Girls D.C. installation party!&lt;/h3&gt;
+&lt;p&gt;# &lt;a name=&quot;travel&quot;&gt;&lt;/a&gt; Heading 1
+It’s easy to forget your place of birth is a privilege. &lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;Nullam&lt;/strong&gt; dignissim convallis est. Quisque aliquam.&lt;/p&gt;
+&lt;p&gt;It took me 4.5 hours to get off the plane and downtown, but I was fast-tracked through customs, in fact through U.S. citizens’ processing, with my Canadian birth and citizenship. No one else on my plane was redirected. &lt;/p&gt;
 
-&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;http://summerspirit.github.io/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Today I have been redirected by a NASA scientist, a roving governor, FedEx and a skateboarder. All in a day, right?&lt;/p&gt;
 
-&lt;p&gt;Kitty ipsum dolor sit amet, stuck in a tree knock over the lamp chuf tail flick, rip the couch judging you chuf lick knock over the lamp knock over the lamp jump. Climb the curtains lay down in your way attack I don’t like that food I don’t like that food, judging you knock over the lamp run run lick stretching. Feed me sleep in the sink judging you catnip, sleep in the sink tail flick knock over the lamp jump on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree fluffy fur jump, tail flick zzz meow litter box catnip eat stretching. Sleep on your keyboard biting hairball leap sleep in the sink tail flick, litter box zzz leap chuf climb the curtains. Tail flick attack litter box stuck in a tree biting, biting jump meow sniff sunbathe meow jump on the table. Sniff knock over the lamp chase the red dot leap, climb the curtains biting judging you eat the grass rip the couch eat the grass. Lick sunbathe run meow eat, jump I don’t like that food biting chuf sniff.
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt; Strive not to be a success, but rather to be of value. –Albert Einstein &lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;
-I don’t like that food judging you sunbathe I don’t like that food litter box zzz, hairball run climb the curtains judging you puking toss the mousie. Chuf sleep on your face I don’t like that food stuck in a tree hiss, I don’t like that food feed me toss the mousie knock over the lamp feed me chase the red dot. Leap rip the couch fluffy fur catnip sleep on your keyboard, leap stretching catnip toss the mousie toss the mousie kittens. Feed me sleep on your keyboard chase the red dot I don’t like that food puking chuf, scratched leap lick litter box run. Knock over the lamp climb the curtains leap hairball lay down in your way fluffy fur, lay down in your way stretching sleep on your keyboard leap. Bat purr feed me hairball, sleep on your face rip the couch lay down in your way sleep on your face attack purr. Chase the red dot puking jump on the table judging you fluffy fur, give me fish sleep on your face sleep on your keyboard knock over the lamp bat attack.
-&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;I remember my Rails installation.&lt;a name=&quot;myinstallation&quot;&gt;yo&lt;/a&gt;&lt;/p&gt;
 
-&lt;dl&gt;
-  &lt;dt&gt;term&lt;/dt&gt;
-  &lt;dd&gt;definition 1&lt;/dd&gt;
-  &lt;dd&gt;definition 2&lt;/dd&gt;
-&lt;/dl&gt;
+&lt;p&gt;The day was hot and sticky. Although I’d been told rules had changed since we were interviewed and we couldn’t keep equipment on-site, I was told the Coordinator of the program had a laptop for me and it would be no problem to use.&lt;/p&gt;
+
+&lt;p&gt;We tried to boot the computer up. It crashed. We tried to boot the computer up again. It crashed again. We tried to boot the computer up again. We got Ubuntu running, then it overheated, crashed, and wouldn’t turn on again. Everyone else seemed to be doing something. The Coordinator said, “Oh well. Do you have another computer?” A tight little knot balled up inside me.&lt;/p&gt;
+
+&lt;p&gt;It was finally decided I should go back “home” and get my iMac. I had just walked 20 minutes across Ottawa, but the Coordinator snidely remarked, “Well, you would’ve had to bring it anyway, right?”&lt;/p&gt;
+
+&lt;p&gt;I started crying. I started walking. &lt;/p&gt;
+
+&lt;p&gt;I walked 20 minutes home, then dragged my 31.2 lb. iMac across downtown Ottawa from UOttawa campus. It’s a walk that, given highway off-ramps and the lay of the streets, forces you directly into crossing a halfway house, youth hostel and full-on homeless shelter, into an extraordinarily sketchy parking lot. It was still littered with all the bottles and syringes from a Canada Day DJ party. I managed to get my $1200 most prized possession from home into the safety of where we were working from.&lt;/p&gt;
+
+&lt;p&gt;From then on, installation was a breeze. One of our awesome instructors had designed a VM just for us, which had all the things we needed in it. My iMac powered through the installation no problem.&lt;/p&gt;
+
+&lt;p&gt;Still, this is how I lost my Rails virginity.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t pleasant. I wouldn’t wish it on anyone.
+&lt;br /&gt;
+&lt;br /&gt;
+*&lt;i&gt;Disclaimer: I love my instructors (professionally) very much. They’re my go-to people, my mentors. They’ve gotten me through some tough spots and stayed up til way past closing time to make sure I got past the finish line. No matter what I ask or when, they have an answer. I owe them my entire existence as a dev. Thank you. &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;The Coordinator, however, is another story.&lt;/i&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;This is why I am such a firm believer in the Rails Girls model. &lt;a name=&quot;rginstallation&quot;&gt;Sup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ll post with more about the model tomorrow, [here], but the basic premise is: programming is fun. Learning to program should be free. Everyone can program.&lt;/p&gt;
+
+&lt;p&gt;The Rails Girls D.C. Installation Party was wonderful. We were welcomed through a bright blue door, into the beautiful, tiered open concept Living Social office, down stairs into a warm and comfy exposed brick living room, then down the hall into the main meeting room.&lt;/p&gt;
+
+&lt;blockquote&gt; Programming is fun. Learning to program should be free. Everyone can program.&lt;/blockquote&gt;
+
+&lt;p&gt;There were sandwiches and drinks and 2 or more Coaches available at each table of 2-3 women participants. &lt;/p&gt;
+
+&lt;p&gt;I had the great honour and privilege to be a Coach tonight and I’m so excited for tomorrow. &lt;/p&gt;
+
+&lt;p&gt;There was a defined agenda, short lightning talks, lots of time to socialize and a completely laid back but organized approach to installing. Coaches were equipped with participants’ skill levels and operating systems days before and select Coaches were paired with Windows participants.&lt;/p&gt;
+
+&lt;p&gt;No one got left behind. No one was left out. Everyone was welcome. Everyone got installed and got to go home well-fed and had the opportunity to rest before the coding day tomorrow.&lt;/p&gt;
+
+&lt;p&gt;I’ve seen the model on paper, and now I’m seeing it in action. It’s everything I hoped for.&lt;/p&gt;
+
+&lt;p&gt;More tomorrow!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;rails-girls-installation-resources-a-nameresourcesdawga&quot;&gt;Rails Girls installation resources: &lt;a name=&quot;resources&quot;&gt;Dawg&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://guides.railsgirls.com/install/&quot;&gt;Rails Girls’ Guide to Installation Rails&lt;/a&gt;&lt;/p&gt;
+
 
   &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/code/travel/&quot;&gt;Travel&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on June 04, 2014.&lt;/p&gt;</content>
 </entry>
@@ -259,7 +442,7 @@ I don’t like that food judging you sunbathe I don’t like that food litter bo
   <title type="html"><![CDATA[Before Genesis]]></title>
   <link rel="alternate" type="text/html" href="http://summerspirit.github.io/poetry/before-genesis/" />
   <id>http://summerspirit.github.io/poetry/before-genesis</id>
-  <updated>2014-03-02 17:28:12 UTCT00:00:00-00:00</updated>
+  <updated>2014-03-02 12:28:12 -0500T00:00:00-00:00</updated>
   <published>2014-03-31T00:00:00-04:00</published>
   
   <author>
