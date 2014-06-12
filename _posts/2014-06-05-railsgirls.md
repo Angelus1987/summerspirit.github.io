@@ -63,6 +63,7 @@ Girls run this world! But also women, ladies, even boys are allowed in. More tha
 <hr />
 
 TIL:
+
 - collect will return values and each will not
 - creating a rake task will be the easiest way to retrieve emails from a database
 (which is important for me right now because the hackathon I'm co-planning, we're about to create a mini site to take in emails for pre-registration, but I hadn't yet worked out how I'd get the emails back out of the database)
@@ -111,7 +112,7 @@ term
 All of the Rails Girls guides are open source and can be contributed to <a href="https://github.com/railsgirls/railsgirls.github.com">here</a>!
 
 ### Resources
-<h2> Beginner Guide to Command Line </h2>
+<h2> Beginner's Guide to Command Line </h2>
  by <a href="https://twitter.com/mad_typist">Jessie Link</a>: 
 
 <script async class="speakerdeck-embed" data-id="9d047860ce1f0131e1db2aa9d004a740" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
