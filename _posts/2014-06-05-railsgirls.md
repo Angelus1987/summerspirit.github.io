@@ -62,7 +62,10 @@ Girls run this world! But also women, ladies, even boys are allowed in. More tha
 
 <hr />
 
-TIL collect will return values and each will not
+TIL:
+- collect will return values and each will not
+- creating a rake task will be the easiest way to retrieve emails from a database
+(which is important for me right now because the hackathon I'm co-planning, we're about to create a mini site to take in emails for pre-registration, but I hadn't yet worked out how I'd get the emails back out of the database)
 
 <hr />
 
@@ -79,6 +82,7 @@ The second advantage - and the reason we did it this way - is that you don't nee
 It avoids you needing internet once it's installed, which was important for us, since the internet went down in our room. 
 <hr />
 
+
 The ladies were also introduced to MINASWAN
 (Matz is nice and so we are nice)
 
@@ -92,7 +96,9 @@ on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree
 <br />
 <blockquote> The worst day of being a programmer is better than my best day at my previous work. </blockquote>
 <br />
-I don't like that food judging you sunbathe I don't like that food litter box zzz, hairball run climb the curtains judging you puking toss the mousie. Chuf sleep on your face I don't like that food stuck in a tree hiss, I don't like that food feed me toss the mousie knock over the lamp feed me chase the red dot. Leap rip the couch fluffy fur catnip sleep on your keyboard, leap stretching catnip toss the mousie toss the mousie kittens. Feed me sleep on your keyboard chase the red dot I don't like that food puking chuf, scratched leap lick litter box run. Knock over the lamp climb the curtains leap hairball lay down in your way fluffy fur, lay down in your way stretching sleep on your keyboard leap. Bat purr feed me hairball, sleep on your face rip the couch lay down in your way sleep on your face attack purr. Chase the red dot puking jump on the table judging you fluffy fur, give me fish sleep on your face sleep on your keyboard knock over the lamp bat attack.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/_rkkFdQeBlA?t=1m57s" frameborder="0" allowfullscreen></iframe>
+
 <br />
 
 term
