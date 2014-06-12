@@ -2,7 +2,7 @@
 layout: post
 title: Rails Girls D.C.
 description: "Who Run the World?"
-modified: <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %} by <a href="{{ site.url }}/about" title="About {{ site.owner.name }}">{{ site.owner.name }}</a>.</p>
+modified: {{ page.modified | date: "%Y-%m-%d" }} {{ page.modified | date: "%B %d, %Y" }}
 category: code
 tags: [code]
 comments: true
