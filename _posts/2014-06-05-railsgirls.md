@@ -63,10 +63,10 @@ Girls run this world! But also women, ladies, even boys are allowed in. More tha
 
 TIL collect will return values and each will not
 
-1. ``` gem install bootstrap-sass
+1. {% highlight ruby %}gem install bootstrap-sass {% end highlight %}
 2. In terminal, bundle install
 3. in assets - stylehseets - application, add:
-``` *= require bootstrap 
+{% highlight ruby %} *= require bootstrap {% end highlight %}
 
 <hr />
 
