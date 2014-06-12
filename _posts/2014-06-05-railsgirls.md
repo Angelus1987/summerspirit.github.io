@@ -26,7 +26,21 @@ That. — at Silver Spring Civic Center
 
 <blockquote class="twitter-tweet" lang="en"><p>Got my coach hat (shirt) on :D Ready to help build some first apps today at <a href="https://twitter.com/search?q=%23RGDCworkshop&amp;src=hash">#RGDCworkshop</a> <a href="https://twitter.com/search?q=%23rails&amp;src=hash">#rails</a> <a href="http://t.co/UHliSEYRTC">pic.twitter.com/UHliSEYRTC</a></p>&mdash; Naomi Freeman (@Naomi_Freeman) <a href="https://twitter.com/Naomi_Freeman/statuses/474505257658372096">June 5, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<script>
+function toggle(id){
+    var elem = document.getElementById(id);
+    if(elem.style.display == 'block'){
+        elem.style.display == 'none'
+    } else if(elem.style.display == 'none'){
+        elem.style.display == 'block'
+    }
+}
+</script>
+<input type="button" onClick="hideStuff('themes')" value="Hide">
+<input type="button" onClick="showStuff('themes')" value="Show">
+<div id="themes" style="display:block">
+    <h3>Stuff</h3>
+    
 ##The Rails Girls Way
 <i>from <a href="http://guides.railsgirls.com/guide">Rails Girls Guides</a></i>
 
