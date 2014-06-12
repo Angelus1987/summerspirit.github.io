@@ -2,7 +2,7 @@
 layout: post
 title: Rails Girls D.C.
 description: "Who Run the World?"
-modified: page.modified | date: "%Y-%m-%d"
+modified: 
 category: code
 tags: [code]
 comments: true
