@@ -35,7 +35,7 @@ The ladies were also introduced to MINASWAN
 (Matz is nice and so we are nice)
 
 ![Matz]({{ site.url }}/images/yukihiro_matsumoto_bw.jpg)
-{: .image-pull-right}
+
 
 <iframe src="http://embed.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
