@@ -97,8 +97,9 @@ on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree
 <blockquote> The worst day of being a programmer is better than my best day at my previous work. </blockquote>
 <br />
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/_rkkFdQeBlA?t=1m57s" frameborder="0" allowfullscreen></iframe>
-
+###More About "What is Rails Girls?"
+<iframe width="560" height="315" src="//www.youtube.com/embed/_rkkFdQeBlA" frameborder="0" allowfullscreen></iframe>
+<i> With liquid + embed, I can't set this video to a start time. It begins at 1:57. </i>
 <br />
 
 term
@@ -106,6 +107,9 @@ term
 : definition 2
 
 <hr />
+###Contribute
+All of the Rails Girls guides are open source and can be contributed to <a href="https://github.com/railsgirls/railsgirls.github.com">here</a>!
+
 ### Resources
 <h2> Beginner Guide to Command Line </h2>
  by <a href="https://twitter.com/mad_typist">Jessie Link</a>: 
