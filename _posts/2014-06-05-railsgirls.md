@@ -16,17 +16,17 @@ comments: true
 
 ### And Scandinavians do it better
 
-This post feels like it's going to be a bit of a quilt. Sorry I'm still learning how to anchor tag in liquid/Github pages.
+This post feels like it's going to be a bit of a quilt. Sorry I'm still learning how to anchor tag in Liquid/Github pages and can't provide quick links to certain sections yet.
 
 I just did a [lightning talk on civic hacking], to a room full of new dev girls that I've Coached through their first app all day.
 
 You know that moment when you know you're doing the thing you're supposed to be doing?
 
-That. — at Silver Spring Civic Center
+That.
 
 <blockquote class="twitter-tweet" lang="en"><p>Got my coach hat (shirt) on :D Ready to help build some first apps today at <a href="https://twitter.com/search?q=%23RGDCworkshop&amp;src=hash">#RGDCworkshop</a> <a href="https://twitter.com/search?q=%23rails&amp;src=hash">#rails</a> <a href="http://t.co/UHliSEYRTC">pic.twitter.com/UHliSEYRTC</a></p>&mdash; Naomi Freeman (@Naomi_Freeman) <a href="https://twitter.com/Naomi_Freeman/statuses/474505257658372096">June 5, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script>
+<!--<script>
 function toggle(id){
     var elem = document.getElementById(id);
     if(elem.style.display == 'block'){
@@ -35,14 +35,14 @@ function toggle(id){
         elem.style.display == 'block'
     }
 }
-</script>
-<input type="button" onClick="hideStuff('themes')" value="Hide">
+</script>-->
+<!--<input type="button" onClick="hideStuff('themes')" value="Hide">
 <input type="button" onClick="showStuff('themes')" value="Show">
 <div id="themes" style="display:block">
-    <h3>Stuff</h3>
+    <h3>Stuff</h3> -->
 
 ##The Rails Girls Way
-<i>from <a href="http://guides.railsgirls.com/guide">Rails Girls Guides</a></i>
+*from <a href="http://guides.railsgirls.com/guide">Rails Girls Guides</a>*
 
 ###The Basics
 
@@ -90,9 +90,20 @@ The ladies were also introduced to MINASWAN
 ![Matz]({{ site.url }}/images/yukihiro_matsumoto_bw.jpg)
 {: .image-pull-center}
 
+ "'Matz' is short for the creator of Ruby, Yukihiro Matsumoto. The anagram reminds us as a community to be respectful and helpful to others. What it does not mean is to only act this way towards Ruby community members and shun everyone else."
+ *from Evan Machnic, broadmac.net post*
+
+I love the Rails Girls model because it is about making programming approachable - from crazy acronyms to "what does a Nokogiri do?" (parse XML, obviously) to the culture and norms as well as best practice (testing, pipelines, etc.). It's a lot to take in in one day, but it's kind of like a buffet where they can take a little piece of everything and come away understanding there is a broad spectrum of things happening out there. 
+
+<hr />
+
+Although we didn't have time to watch these in the workshop, they were mentioned, and I watched them after and felt I should share. This one is on "What makes someone successful?"
+
 <iframe src="http://embed.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <blockquote> "...transforms thinkers into creators." </blockquote>
+* -General Assembly's core goal in teaching their lessons *
+
 on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree fluffy fur jump, tail flick zzz meow litter box catnip eat stretching. Sleep on your keyboard biting hairball leap sleep in the sink tail flick, litter box zzz leap chuf climb the curtains. Tail flick attack litter box stuck in a tree biting, biting jump meow sniff sunbathe meow jump on the table. Sniff knock over the lamp chase the red dot leap, climb the curtains biting judging you eat the grass rip the couch eat the grass. Lick sunbathe run meow eat, jump I don't like that food biting chuf sniff.
 <br />
 <blockquote> The worst day of being a programmer is better than my best day at my previous work. </blockquote>
@@ -100,12 +111,8 @@ on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree
 
 ###More About "What is Rails Girls?"
 <iframe width="560" height="315" src="//www.youtube.com/embed/_rkkFdQeBlA" frameborder="0" allowfullscreen></iframe>
-<i> With liquid + embed, I can't set this video to a start time. It begins at 1:57. </i>
+<i> With Liquid and the way this needs embedded, I can't set this video to a start time. It begins at 1:57. </i>
 <br />
-
-term
-: definition 1
-: definition 2
 
 <hr />
 ###Contribute
