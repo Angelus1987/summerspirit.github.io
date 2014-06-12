@@ -28,15 +28,22 @@ That. — at Silver Spring Civic Center
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ##The Rails Girls Way
-(from http://guides.railsgirls.com/guide/)
-The Basics
+<i>from <a href="http://guides.railsgirls.com/guide">Rails Girls Guides</a></i>
+
+###The Basics
+
 Rails Girls events are non-profit. We don’t charge the participants and do not pay for coaches or speakers. Participants don’t need any previous knowledge about programming and there are no age-limitations. All the participants need is a laptop and some curiosity.
+
 The two-day event includes a lot of small group working and short focused talks on programming, design and web. No panel discussions or podium-talks - the spirit should be informal and hands-on. The more you can remove abstractions and add inclusivity the better.
 
-Rails Girls philosophy
+###Rails Girls philosophy
+
 Show sparks, personality and keep in mind the big picture. Explain, repeat and always tie what you’re telling into a larger context.
+
 Internet was made by people and it doesn’t break by a little tinkering. Continuously show the human side: encourage coaches to talk about open source communities, their programming idols and their aspirations.
+
 Copy-pasting rules. Programming per se isn’t central - you can’t really learn to speak Chinese in one day, in a similar manner you can only learn the basic vocabulary and expressions in coding. The goal of every event is to make something visible!
+
 Girls run this world! But also women, ladies, even boys are allowed in. More than semantics we’re interested in a mindset. Both founders were born in the Spice Girls era, they don’t see the word girl as condescending or cutesy-cute.
 
 
