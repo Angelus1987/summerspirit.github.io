@@ -70,8 +70,8 @@ TIL:
 
 <hr />
 ###Painless Bootstrap
-*Bootstrap 3.1.1, Rails 4.1, Ruby 2.1.0*
-
+*(Bootstrap 3.1.1, Rails 4.1, Ruby 2.1.0)*
+<br />
 This is the simplest way I've seen to install Bootstrap in Rails.
 I've been in a few hackathons recently where we spent far too much time trying to get Bootstrap in gear. It used to be really strong, but it's been causing more harm than good recently. A configuration used in Rails Girls seems to tame it:
 
