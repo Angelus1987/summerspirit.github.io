@@ -16,7 +16,7 @@ comments: true
 
 ### And Scandinavians do it better
 
-This post feels like it's going to be a bit of a quilt. Just roll with me on this one. Also, sorry I'm still learning how to anchor tag in Liquid/Github pages and can't provide quick links to certain sections yet. If you know how to do that, and/or integrate JS, feel free to fork and send me a pull request: <a href="https://github.com/summerspirit/summerspirit.github.io/fork">Fork my blog!</a>
+This post feels like it's going to be a bit of a quilt. Just roll with me on this one. Also, sorry I'm still learning how to anchor tag in Liquid/Github pages and can't provide quick links to certain sections yet. If you know how to do that, and/or integrate JS, feel free to fork and send me a pull request: <a href="https://github.com/summerspirit/summerspirit.github.io/fork" target="_blank">Fork my blog!</a>
 
 I just did a [lightning talk on civic hacking], to a room full of new dev girls that I've Coached through their first app all day.
 
@@ -42,7 +42,7 @@ function toggle(id){
     <h3>Stuff</h3> -->
 
 ##The Rails Girls Way
-*from <a href="http://guides.railsgirls.com/guide">Rails Girls Guides</a>*
+*from <a href="http://guides.railsgirls.com/guide" target="_blank">Rails Girls Guides</a>*
 
 ###The Basics
 
@@ -52,7 +52,7 @@ The two-day event includes a lot of small group working and short focused talks 
 
 
 <blockquote> "...transforms thinkers into creators." </blockquote>
-*-General Assembly's core goal in teaching their lessons*
+  *-General Assembly's core goal in teaching their lessons*
 
 ###Rails Girls philosophy
 
@@ -118,18 +118,18 @@ Although we didn't have time to watch these in the workshop, they were mentioned
 
 <hr />
 ###Contribute
-All of the Rails Girls guides are open source and can be contributed to <a href="https://github.com/railsgirls/railsgirls.github.com">here</a>!
+All of the Rails Girls guides are open source and can be contributed to <a href="https://github.com/railsgirls/railsgirls.github.com" target="_blank">here</a>!
 
 ### Resources
 <h2> Beginner's Guide to Command Line </h2>
- by <a href="https://twitter.com/mad_typist">Jessie Link</a>: 
+ by <a href="https://twitter.com/mad_typist" target="_blank">Jessie Link</a>: 
 
 <script async class="speakerdeck-embed" data-id="9d047860ce1f0131e1db2aa9d004a740" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 <h2> Ruby in 100 Minutes </h2>
 <i>For Ruby/Rails installation, see [here]</i>
 
-<a href="http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html">Go to tutorial</a>
+<a href="http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html" target="_blank">Go to tutorial</a>
 
 <h2> Workshop Schedule - Rails Girls D.C. 2014 </h2>
-<a href="https://docs.google.com/document/d/1LCei7600elHliBVYJdourGZu0V9kSpsFKHzZuo4N5YI/edit" />Schedule
+<a href="https://docs.google.com/document/d/1LCei7600elHliBVYJdourGZu0V9kSpsFKHzZuo4N5YI/edit" target="_blank">Schedule</a>
