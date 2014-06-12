@@ -16,7 +16,7 @@ comments: true
 
 ### And Scandinavians do it better
 
-This post feels like it's going to be a bit of a quilt. Sorry I'm still learning how to anchor tag in Liquid/Github pages and can't provide quick links to certain sections yet.
+This post feels like it's going to be a bit of a quilt. Just roll with me on this one. Also, sorry I'm still learning how to anchor tag in Liquid/Github pages and can't provide quick links to certain sections yet. If you know how to do that, and/or integrate JS, feel free to fork and send me a pull request: <a href="https://github.com/summerspirit/summerspirit.github.io/fork">For my blog!</a>
 
 I just did a [lightning talk on civic hacking], to a room full of new dev girls that I've Coached through their first app all day.
 
@@ -49,6 +49,10 @@ function toggle(id){
 Rails Girls events are non-profit. We don’t charge the participants and do not pay for coaches or speakers. Participants don’t need any previous knowledge about programming and there are no age-limitations. All the participants need is a laptop and some curiosity.
 
 The two-day event includes a lot of small group working and short focused talks on programming, design and web. No panel discussions or podium-talks - the spirit should be informal and hands-on. The more you can remove abstractions and add inclusivity the better.
+
+
+<blockquote> "...transforms thinkers into creators." </blockquote>
+* -General Assembly's core goal in teaching their lessons *
 
 ###Rails Girls philosophy
 
@@ -103,10 +107,6 @@ Although we didn't have time to watch these in the workshop, they were mentioned
 
 <iframe src="http://embed.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-<blockquote> "...transforms thinkers into creators." </blockquote>
-* -General Assembly's core goal in teaching their lessons *
-
-on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree fluffy fur jump, tail flick zzz meow litter box catnip eat stretching. Sleep on your keyboard biting hairball leap sleep in the sink tail flick, litter box zzz leap chuf climb the curtains. Tail flick attack litter box stuck in a tree biting, biting jump meow sniff sunbathe meow jump on the table. Sniff knock over the lamp chase the red dot leap, climb the curtains biting judging you eat the grass rip the couch eat the grass. Lick sunbathe run meow eat, jump I don't like that food biting chuf sniff.
 <br />
 <blockquote> The worst day of being a programmer is better than my best day at my previous work. </blockquote>
 <br />
