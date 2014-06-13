@@ -5,7 +5,7 @@ description: "Inserting a post chronologically before the First Post. Video on M
 modified: 2014-03-02 13:28:12 -0400
 category: poetry
 tags: [meteor.js]
-i<!-- mage:
+<!-- mage:
   feature: texture-feature-05.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com -->

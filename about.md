@@ -6,8 +6,8 @@ tagline: Ruby and Other Code
 tags: [about]
 modified: 4-1-2013
 comments: true
-image:
-  feature: texture-feature-03.jpg
+<!-- image:
+  feature: texture-feature-03.jpg -->
   <!--credit: Texture Lovers
   creditlink: http://texturelovers.com -->
 ---

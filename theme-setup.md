@@ -4,10 +4,10 @@ permalink: /projects/
 title: Projects
 description: "This will be where Naomi's Projects live."
 tags: [Ruby on Rails]
-image:
+<!-- image:
   feature: texture-feature-03.jpg
   credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  creditlink: http://texturelovers.com -->
 ---
 Naomi is building and learning all kinds of things.
 
