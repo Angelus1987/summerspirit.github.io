@@ -30,7 +30,7 @@ If you need programming help, you can book me at AirPair or Codementor:
 <script data-codementor="nfreeman" target="_blank" data-style="button" data-theme="dark" src="https://cdn.codementor.io/d/badge.js"></script>
 
 <br />
- <a markdown="0" href="http://www.airpair.com/book/naomif" class="btn">Book me at Air Pair</a>
+ <a href="http://www.airpair.com/book/naomif" class="btn">Book me at Air Pair</a>
  <!--[my site](http://mademistakes.com)[^1] --> 
 
 ## I'm also happy to talk about:
