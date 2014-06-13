@@ -13,14 +13,22 @@ Naomi is building and learning all kinds of things.
 
 ## Recent Projects:
 
-1. [Battle Hack](http://google.ca) `gem install factorygirl`. Inspired by [Jekyll](http://jekyllrb.com).
-2. Fork the [Meteor repo](https://github.com/summerspirit/pomegranates/fork).
-3. Top secret Ghanian APIs.
-4. Open data projects.
-5. Something about fish. FishMangler Master!
-6. Read the documentation below for further enlightenment.
+1. Rails Girls D.C.
+2. [Battle Hack](http://google.ca). 
+We won the SendGrid prize!
+3. Open Data TO + Go Open Data 
+Our project.
+The conference.
+4. CODE
+Top 25 VIP Hub at OneEleven participants
+[FishMangler](http://google.ca)
 
-<div markdown="0"><a href="#" class="btn">Download the iOS project</a></div>
+##Upcoming:
+1. Distill
+2. Bike Share
+3. Profile in Shameless Mag
+
+<!-- <div markdown="0"><a href="#" class="btn">Download the iOS project</a></div>
 
 _Why can't I just download your app?_ <br />
 Because I can't afford an iTunes dev account. 
@@ -64,7 +72,7 @@ minimal-mistakes/
 └── index.md                     # sample homepage. lists 5 latest posts
 {% endhighlight %}
 
----
+
 
 ## Multi-Part Project
 
@@ -76,3 +84,4 @@ Lucas ipsum dolor sit amet fett moff windu hutt greedo binks jawa organa leia da
 
 Dagobah tatooine padmé yoda obi-wan skywalker kenobi. Luuke hutt hutt hoth antilles qui-gon organa wampa. Hutt binks maul mon yavin organa. K-3po antilles organa antilles fisto luuke luke wedge darth. Jade bespin coruscant solo zabrak ben moff darth jinn. Hutt baba jango amidala yoda mon organa luke obi-wan. Calrissian greedo moff aayla mandalore fisto.Kenobi organa yoda kit. Luke organa r2-d2 antilles padmé hutt boba fett. Qui-gon gonk ventress hutt dooku yavin skywalker. Skywalker organa secura mandalorians.
 
+ -->
