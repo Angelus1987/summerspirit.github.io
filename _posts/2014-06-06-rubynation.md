@@ -16,6 +16,9 @@ comments: true
 
 ### Ruby Nation kicked off and one of my baby devs kicked my day off in a major awesome
 
+<blockquote class="twitter-tweet" lang="en"><p>With a huge help from <a href="https://twitter.com/Naomi_Freeman">@Naomi_Freeman</a> &amp; <a href="https://twitter.com/karlhigley">@karlhigley</a>, I made this at <a href="https://twitter.com/search?q=%23RGDCWorkshop&amp;src=hash">#RGDCWorkshop</a> today: <a href="http://t.co/ZXWtgWQzxc">http://t.co/ZXWtgWQzxc</a> (many improvements needed!)</p>&mdash; Mai Nguyen (@mxngyn) <a href="https://twitter.com/mxngyn/statuses/474734814353182720">June 6, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Lorem ipsum dolor sit amet, test link adipiscing elit. **Nullam** dignissim convallis est. Quisque aliquam.
 
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
