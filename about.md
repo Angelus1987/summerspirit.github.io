@@ -12,9 +12,9 @@ comments: true
   creditlink: http://texturelovers.com -->
 ---
 I am a multi-faceted life-juggler that brings the hustle to whatever I do. I leverage abstract thinking with big ideas and am uniquely skilled to also build the tools to realize them. I will import the strategy to your movements to make forward-thinking change happen.
-
+<br />
 In other words: I'm not "just another dev". 
-
+<br />
 My primary programming capacities include Ruby and Rails, but I also have some front-end experience. I use my coding knowledge to inform my strategy decisions.
 
 I am committed to civic participation, by any means necessary: from hacking to political debate, Twitter to poetry.  I have seen and personally evidenced that each of us can be the change we seek.
