@@ -16,10 +16,25 @@ comments: true
 
 ### Ruby Nation kicked off and one of my baby devs kicked my day off in a major awesome
 
+While I was out grabbing a couple of drinks and heading back to my hotel (which had barely any internet), one of the Rails Girls was very busy changing her database to postgres and deploying to Heroku.
+
+I found this tweet at the conference in the morning:
+
 <blockquote class="twitter-tweet" lang="en"><p>With a huge help from <a href="https://twitter.com/Naomi_Freeman">@Naomi_Freeman</a> &amp; <a href="https://twitter.com/karlhigley">@karlhigley</a>, I made this at <a href="https://twitter.com/search?q=%23RGDCWorkshop&amp;src=hash">#RGDCWorkshop</a> today: <a href="http://t.co/ZXWtgWQzxc">http://t.co/ZXWtgWQzxc</a> (many improvements needed!)</p>&mdash; Mai Nguyen (@mxngyn) <a href="https://twitter.com/mxngyn/statuses/474734814353182720">June 6, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **Nullam** dignissim convallis est. Quisque aliquam.
+This is her very first Rails app! This is Day 1 of programming! I whole-heartedly disagree that it needs much improvement. She went above and beyond the guides. I coached her through part of it, but it was all on her initiative.
+
+Almost immediately after seeing her tweet, this came through:
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/mxngyn">@mxngyn</a> <a href="https://twitter.com/Naomi_Freeman">@Naomi_Freeman</a> <a href="https://twitter.com/karlhigley">@karlhigley</a> You&#39;re Learning so fast Mai ! Great work :) &#10;Post more accomplishments or send them to me on FB</p>&mdash; Aymane (@AymaneShuichi) <a href="https://twitter.com/AymaneShuichi/statuses/474864933528547330">June 6, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I was so proud and absolutely elated at her progress and other people taking interest in her work.
+
+This absolutely cements all my feel good feelings about the workshop over the past 2 days.
+
+<hr />
 
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
 {: .image-pull-right}
