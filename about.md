@@ -24,8 +24,13 @@ I am committed to civic participation, by any means necessary: from hacking to p
 
 Teaching, mutual learning, and collaboration between all kinds of unlikely partners is a mechanism by which we can achieve these changes.  
 
-If you need programming help, you can book me at AirPair or Codementor: <br/>
-<script data-codementor="nfreeman" data-style="button" data-theme="dark" src="https://cdn.codementor.io/d/badge.js"></script> <a markdown="0" href="http://www.airpair.com/book/naomif" class="btn">Air Pair</a>
+If you need programming help, you can book me at AirPair or Codementor: 
+<br/>
+<br />
+<script data-codementor="nfreeman" target="_blank" data-style="button" data-theme="dark" src="https://cdn.codementor.io/d/badge.js"></script>
+
+<br />
+ <a markdown="0" href="http://www.airpair.com/book/naomif" class="btn">Book me at Air Pair</a>
  <!--[my site](http://mademistakes.com)[^1] --> 
 
 ## I'm also happy to talk about:
