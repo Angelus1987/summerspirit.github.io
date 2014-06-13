@@ -13,7 +13,7 @@ Naomi is building and learning all kinds of things.
 
 ## Recent Projects:
 
-1. [A Beautiful One](http://google.ca) `gem install factorygirl`. Inspired by [Jekyll](http://jekyllrb.com).
+1. [Battle Hack](http://google.ca) `gem install factorygirl`. Inspired by [Jekyll](http://jekyllrb.com).
 2. Fork the [Meteor repo](https://github.com/summerspirit/pomegranates/fork).
 3. Top secret Ghanian APIs.
 4. Open data projects.
