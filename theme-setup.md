@@ -20,8 +20,8 @@ We won the SendGrid prize!
 Our project. <br />
 The conference. <br />
 
-4. [CODE](https://canadianopendataexperience.com/)
-Top 25 VIP Hub at OneEleven participants
+4. [CODE](https://canadianopendataexperience.com/)<br />
+Top 25 VIP Hub at OneEleven participants<br />
 [FishMangler](https://canadianopendataexperience.com/teams/the-carrot-crew)
 
 ##Upcoming:
