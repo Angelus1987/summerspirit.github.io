@@ -19,7 +19,6 @@ We won the SendGrid prize!
 3. Open Data TO + [Go Open Data Day](http://2014.go-opendata.ca/about/) <br />
 Our project. <br />
 The conference. <br />
-
 4. [CODE](https://canadianopendataexperience.com/)<br />
 Top 25 VIP Hub at OneEleven participants<br />
 [FishMangler](https://canadianopendataexperience.com/teams/the-carrot-crew)
