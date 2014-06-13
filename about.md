@@ -18,13 +18,13 @@ In other words: I'm not "just another dev".
 <br />
 <br />
 
-My primary programming capacities include Ruby and Rails, but I also have some front-end experience. I use my coding knowledge to inform my strategy decisions.
-
+My primary programming ability is in Ruby and/on Rails, but I also have some front-end experience. I use my coding knowledge to inform my strategy decisions.
+<br />
 I am committed to civic participation, by any means necessary: from hacking to political debate, Twitter to poetry.  I have seen and personally evidenced that each of us can be the change we seek.
 
 Teaching, mutual learning, and collaboration between all kinds of unlikely partners is a mechanism by which we can achieve these changes.  
 
-If you need programming help, you can book me here: and here:
+If you need programming help, you can book me here: [Airpair](http://www.airpair.com/book/naomif) and here: <script data-codementor="nfreeman" data-style="button" data-theme="dark" src="https://cdn.codementor.io/d/badge.js"></script>()
  <!--[my site](http://mademistakes.com)[^1] --> 
 
 ## I'm also happy to talk about:
