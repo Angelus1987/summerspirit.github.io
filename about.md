@@ -12,7 +12,6 @@ comments: true
   creditlink: http://texturelovers.com -->
 ---
 I am a multi-faceted life-juggler that brings the hustle to whatever I do. I leverage abstract thinking with big ideas and am uniquely skilled to also build the tools to realize them. I will import the strategy to your movements to make forward-thinking change happen.
-
 <br />
 <br />
 In other words: I'm not "just another dev". 
