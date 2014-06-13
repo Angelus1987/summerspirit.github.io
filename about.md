@@ -24,7 +24,8 @@ I am committed to civic participation, by any means necessary: from hacking to p
 
 Teaching, mutual learning, and collaboration between all kinds of unlikely partners is a mechanism by which we can achieve these changes.  
 
-If you need programming help, you can book me here: [Airpair](http://www.airpair.com/book/naomif) and here: <script data-codementor="nfreeman" data-style="button" data-theme="dark" src="https://cdn.codementor.io/d/badge.js"></script>()
+If you need programming help, you can book me at AirPair or Codementor:
+<a markdown="0" href="http://www.airpair.com/book/naomif" class="btn">Air Pair</a> <script data-codementor="nfreeman" data-style="button" data-theme="dark" src="https://cdn.codementor.io/d/badge.js"></script>
  <!--[my site](http://mademistakes.com)[^1] --> 
 
 ## I'm also happy to talk about:
@@ -36,4 +37,3 @@ If you need programming help, you can book me here: [Airpair](http://www.airpair
 * Wonderment at the number of names we have for bacon, drunkenness and sorrow
 
 <br />
-<a markdown="0" href="#" class="btn">Another Site</a>
