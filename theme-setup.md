@@ -13,18 +13,20 @@ Naomi is building and learning all kinds of things.
 
 ## Recent Projects:
 
-1. Rails Girls D.C.
-2. [Battle Hack](http://google.ca). 
+1. [Rails Girls D.C.](http://naomifreeman.com/code/railsgirls/)
+2. [Battle Hack](https://2014.battlehack.org/). 
 We won the SendGrid prize!
-3. Open Data TO + Go Open Data 
+3. Open Data TO + [Go Open Data Day](http://2014.go-opendata.ca/about/)
+
 Our project.
+
 The conference.
-4. CODE
+4. [CODE](https://canadianopendataexperience.com/)
 Top 25 VIP Hub at OneEleven participants
-[FishMangler](http://google.ca)
+[FishMangler](https://canadianopendataexperience.com/teams/the-carrot-crew)
 
 ##Upcoming:
-1. Distill
+1. [Distill](https://distill.engineyard.com/)
 2. Bike Share
 3. Profile in Shameless Mag
 
