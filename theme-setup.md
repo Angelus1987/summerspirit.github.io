@@ -16,11 +16,10 @@ Naomi is building and learning all kinds of things.
 1. [Rails Girls D.C.](http://naomifreeman.com/code/railsgirls/)
 2. [Battle Hack](https://2014.battlehack.org/). 
 We won the SendGrid prize!
-3. Open Data TO + [Go Open Data Day](http://2014.go-opendata.ca/about/)
+3. Open Data TO + [Go Open Data Day](http://2014.go-opendata.ca/about/) <br />
+Our project. <br />
+The conference. <br />
 
-Our project.
-
-The conference.
 4. [CODE](https://canadianopendataexperience.com/)
 Top 25 VIP Hub at OneEleven participants
 [FishMangler](https://canadianopendataexperience.com/teams/the-carrot-crew)
