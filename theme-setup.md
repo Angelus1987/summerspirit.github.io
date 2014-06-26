@@ -13,9 +13,9 @@ Naomi is building and learning all kinds of things.
 
 ## Recent Projects:
 
-1. [Rails Girls D.C.](http://naomifreeman.com/code/railsgirls/)
+1. [Rails Girls D.C.](http://naomifreeman.com/code/railsgirls/) <br />
 I was a Coach and Lightning Talk speaker
-2. [Battle Hack](https://2014.battlehack.org/). 
+2. [Battle Hack](https://2014.battlehack.org/)<br />
 Our team of 4 won the SendGrid prize!
 3. Open Data TO + [Go Open Data Day](http://2014.go-opendata.ca/about/) <br />
 I'm currently the technical lead on the Toronto Community Housing Corporation Repairs System that we're building.
@@ -25,11 +25,11 @@ Invite-only VIP Hub participants at OneEleven<br />
 [FishMangler](https://canadianopendataexperience.com/teams/the-carrot-crew)
 
 ##Upcoming:
-1. [Distill](https://distill.engineyard.com/)
+1. [Distill](https://distill.engineyard.com/)<br />
 I'll be speaking at Distill. My talk is "Level Up, Win Money, Change the World?" and will explore a variety of hackathons.
-2. Bike Share
+2. Bike Share<br />
 I'm co-planning a hackathon for [Bike Share](https://www.bikesharetoronto.com/) for others to participate in Aug. 15-17 at [Bitmaker Labs](https://www.bitmakerlabs.com).
-3. Profile in Shameless Mag
+3. Profile in Shameless Mag <br />
 While I was in D.C., I was pleased to squeeze in an interview with [Shameless Mag](https://shamelessmag.com), for a job column in their upcoming September tech issue.
 
 <!-- <div markdown="0"><a href="#" class="btn">Download the iOS project</a></div>
