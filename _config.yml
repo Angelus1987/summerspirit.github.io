@@ -39,7 +39,7 @@ links:
   - title: About
     url: /about/
   - title: Posts
-    baseurl: /posts/
+    url: /posts/
   - title: Projects
     url: /projects/
   #- title: Go Yonder
