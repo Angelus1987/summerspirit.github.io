@@ -2,7 +2,7 @@ title:            Naomi's Most Excellent Site
 description:      where she will write wondrous and amazing things
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:             http://summerspirit.github.io #http://localhost:4000 #http://summerspirit.github.io #http://localhost:4000
-baseurl: /projects
+--baseurl: /projects
 disqus_shortname: 
 
 # Owner/author information
