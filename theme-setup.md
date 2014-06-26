@@ -11,7 +11,7 @@ tags: [Ruby on Rails]
 ---
 Naomi is building and learning all kinds of things.
 
-## Recent Projects:
+## Recent Projects & Happenings:
 
 1. [Rails Girls D.C.](http://naomifreeman.com/code/railsgirls/) <br />
 I was a Coach and Lightning Talk speaker
