@@ -41,9 +41,9 @@ links:
     url: /posts/
   - title: Projects
     url: /projects/
-  - title: Go Yonder
-    url: https://svbtle.com/magazine
-    external: true
+  #- title: Go Yonder
+   # url: https://svbtle.com/magazine
+    #external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
