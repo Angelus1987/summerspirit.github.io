@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://summerspirit.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://summerspirit.github.io" />
-<updated>2014-06-12T20:17:00-04:00</updated>
+<updated>2014-06-13T11:26:13-04:00</updated>
 <id>http://summerspirit.github.io/</id>
 <author>
   <name>Naomi</name>
@@ -91,50 +91,6 @@ Have a great night everyone.&lt;/p&gt;
 
 
 <entry>
-  <title type="html"><![CDATA[Ruby Nation Day 2]]></title>
-  <link rel="alternate" type="text/html" href="http://summerspirit.github.io/code/rubynation2/" />
-  <id>http://summerspirit.github.io/code/rubynation2</id>
-  <updated>2014-04-01T00:00:00-00:00</updated>
-  <published>2014-06-07T00:00:00-04:00</published>
-  
-  <author>
-    <name>Naomi</name>
-    <uri>http://summerspirit.github.io</uri>
-    <email>your@email.com</email>
-  </author>
-  <content type="html">&lt;h1 id=&quot;ruby-ruby-ruby-ruby-&quot;&gt;Ruby, ruby, ruby, ruby …&lt;/h1&gt;
-
-&lt;h3 id=&quot;ruby-ruby-ruby-&quot;&gt;ruby, ruby, ruby …&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;Nullam&lt;/strong&gt; dignissim convallis est. Quisque aliquam.&lt;/p&gt;
-
-&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;http://summerspirit.github.io/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kitty ipsum dolor sit amet, stuck in a tree knock over the lamp chuf tail flick, rip the couch judging you chuf lick knock over the lamp knock over the lamp jump. Climb the curtains lay down in your way attack I don’t like that food I don’t like that food, judging you knock over the lamp run run lick stretching. Feed me sleep in the sink judging you catnip, sleep in the sink tail flick knock over the lamp jump on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree fluffy fur jump, tail flick zzz meow litter box catnip eat stretching. Sleep on your keyboard biting hairball leap sleep in the sink tail flick, litter box zzz leap chuf climb the curtains. Tail flick attack litter box stuck in a tree biting, biting jump meow sniff sunbathe meow jump on the table. Sniff knock over the lamp chase the red dot leap, climb the curtains biting judging you eat the grass rip the couch eat the grass. Lick sunbathe run meow eat, jump I don’t like that food biting chuf sniff.
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt; Strive not to be a success, but rather to be of value. –Albert Einstein &lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;
-I don’t like that food judging you sunbathe I don’t like that food litter box zzz, hairball run climb the curtains judging you puking toss the mousie. Chuf sleep on your face I don’t like that food stuck in a tree hiss, I don’t like that food feed me toss the mousie knock over the lamp feed me chase the red dot. Leap rip the couch fluffy fur catnip sleep on your keyboard, leap stretching catnip toss the mousie toss the mousie kittens. Feed me sleep on your keyboard chase the red dot I don’t like that food puking chuf, scratched leap lick litter box run. Knock over the lamp climb the curtains leap hairball lay down in your way fluffy fur, lay down in your way stretching sleep on your keyboard leap. Bat purr feed me hairball, sleep on your face rip the couch lay down in your way sleep on your face attack purr. Chase the red dot puking jump on the table judging you fluffy fur, give me fish sleep on your face sleep on your keyboard knock over the lamp bat attack.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;term&lt;/dt&gt;
-  &lt;dd&gt;definition 1&lt;/dd&gt;
-  &lt;dd&gt;definition 2&lt;/dd&gt;
-&lt;/dl&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/code/rubynation2/&quot;&gt;Ruby Nation Day 2&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on June 07, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
   <title type="html"><![CDATA[Ruby Nation]]></title>
   <link rel="alternate" type="text/html" href="http://summerspirit.github.io/code/rubynation/" />
   <id>http://summerspirit.github.io/code/rubynation</id>
@@ -150,32 +106,35 @@ I don’t like that food judging you sunbathe I don’t like that food litter bo
 
 &lt;h3 id=&quot;ruby-nation-kicked-off-and-one-of-my-baby-devs-kicked-my-day-off-in-a-major-awesome&quot;&gt;Ruby Nation kicked off and one of my baby devs kicked my day off in a major awesome&lt;/h3&gt;
 
+&lt;p&gt;While I was out grabbing a couple of drinks and heading back to my hotel (which had barely any internet), one of the Rails Girls was very busy changing her database to postgres and deploying to Heroku.&lt;/p&gt;
+
+&lt;p&gt;I found this tweet at the conference in the morning:&lt;/p&gt;
+
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;With a huge help from &lt;a href=&quot;https://twitter.com/Naomi_Freeman&quot;&gt;@Naomi_Freeman&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/karlhigley&quot;&gt;@karlhigley&lt;/a&gt;, I made this at &lt;a href=&quot;https://twitter.com/search?q=%23RGDCWorkshop&amp;amp;src=hash&quot;&gt;#RGDCWorkshop&lt;/a&gt; today: &lt;a href=&quot;http://t.co/ZXWtgWQzxc&quot;&gt;http://t.co/ZXWtgWQzxc&lt;/a&gt; (many improvements needed!)&lt;/p&gt;&amp;mdash; Mai Nguyen (@mxngyn) &lt;a href=&quot;https://twitter.com/mxngyn/statuses/474734814353182720&quot;&gt;June 6, 2014&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;Nullam&lt;/strong&gt; dignissim convallis est. Quisque aliquam.&lt;/p&gt;
+&lt;p&gt;This is her very first Rails app! This is Day 1 of programming! I whole-heartedly disagree that it needs much improvement. She went above and beyond the guides. I coached her through part of it, but it was all on her initiative.&lt;/p&gt;
 
-&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;http://summerspirit.github.io/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Almost immediately after seeing her tweet, this came through:&lt;/p&gt;
 
-&lt;p&gt;Kitty ipsum dolor sit amet, stuck in a tree knock over the lamp chuf tail flick, rip the couch judging you chuf lick knock over the lamp knock over the lamp jump. Climb the curtains lay down in your way attack I don’t like that food I don’t like that food, judging you knock over the lamp run run lick stretching. Feed me sleep in the sink judging you catnip, sleep in the sink tail flick knock over the lamp jump on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree fluffy fur jump, tail flick zzz meow litter box catnip eat stretching. Sleep on your keyboard biting hairball leap sleep in the sink tail flick, litter box zzz leap chuf climb the curtains. Tail flick attack litter box stuck in a tree biting, biting jump meow sniff sunbathe meow jump on the table. Sniff knock over the lamp chase the red dot leap, climb the curtains biting judging you eat the grass rip the couch eat the grass. Lick sunbathe run meow eat, jump I don’t like that food biting chuf sniff.
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt; Strive not to be a success, but rather to be of value. –Albert Einstein &lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;
-I don’t like that food judging you sunbathe I don’t like that food litter box zzz, hairball run climb the curtains judging you puking toss the mousie. Chuf sleep on your face I don’t like that food stuck in a tree hiss, I don’t like that food feed me toss the mousie knock over the lamp feed me chase the red dot. Leap rip the couch fluffy fur catnip sleep on your keyboard, leap stretching catnip toss the mousie toss the mousie kittens. Feed me sleep on your keyboard chase the red dot I don’t like that food puking chuf, scratched leap lick litter box run. Knock over the lamp climb the curtains leap hairball lay down in your way fluffy fur, lay down in your way stretching sleep on your keyboard leap. Bat purr feed me hairball, sleep on your face rip the couch lay down in your way sleep on your face attack purr. Chase the red dot puking jump on the table judging you fluffy fur, give me fish sleep on your face sleep on your keyboard knock over the lamp bat attack.
-&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; lang=&quot;en&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/mxngyn&quot;&gt;@mxngyn&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Naomi_Freeman&quot;&gt;@Naomi_Freeman&lt;/a&gt; &lt;a href=&quot;https://twitter.com/karlhigley&quot;&gt;@karlhigley&lt;/a&gt; You&amp;#39;re Learning so fast Mai ! Great work :) &amp;#10;Post more accomplishments or send them to me on FB&lt;/p&gt;&amp;mdash; Aymane (@AymaneShuichi) &lt;a href=&quot;https://twitter.com/AymaneShuichi/statuses/474864933528547330&quot;&gt;June 6, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;I was so proud and absolutely elated at her progress and other people taking interest in her work.&lt;/p&gt;
 
-&lt;dl&gt;
-  &lt;dt&gt;term&lt;/dt&gt;
-  &lt;dd&gt;definition 1&lt;/dd&gt;
-  &lt;dd&gt;definition 2&lt;/dd&gt;
-&lt;/dl&gt;
+&lt;p&gt;This absolutely cements all my feel good feelings about the workshop over the past 2 days.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;to-be-continued-&quot;&gt;To be continued …&lt;/h3&gt;
+
+&lt;p&gt;There was so much going on at Ruby Nation. &lt;/p&gt;
+
+&lt;p&gt;I have a full notebook and an empty blog. These things will have to come together soon. I almost feel like I should HootSuite/TweetDeck these conference posts out across time. I need to build Categories first. &lt;/p&gt;
+
+&lt;p&gt;Well, Categories are built and even separating themselves in my directory. I just need the piece to loop through them and make them show up in filtered lists.&lt;/p&gt;
+
+&lt;p&gt;Theme of the blog: Liquid is new to me, but I’m absolutely certain there are a lot of positives about doing it this way.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/code/rubynation/&quot;&gt;Ruby Nation&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on June 06, 2014.&lt;/p&gt;</content>
 </entry>
@@ -383,149 +342,11 @@ I’ve been in a few hackathons recently where we spent far too much time trying
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;rails-girls-installation-resources-a-nameresourcesdawga&quot;&gt;Rails Girls installation resources: &lt;a name=&quot;resources&quot;&gt;Dawg&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;rails-girls-installation-resources&quot;&gt;Rails Girls installation resources:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;http://guides.railsgirls.com/install/&quot;&gt;Rails Girls’ Guide to Installation Rails&lt;/a&gt;&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/code/travel/&quot;&gt;Travel&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on June 04, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[First Post]]></title>
-  <link rel="alternate" type="text/html" href="http://summerspirit.github.io/code/first-post/" />
-  <id>http://summerspirit.github.io/code/first-post</id>
-  <updated>2014-04-01T00:00:00-00:00</updated>
-  <published>2014-04-01T00:00:00-04:00</published>
-  
-  <author>
-    <name>Naomi</name>
-    <uri>http://summerspirit.github.io</uri>
-    <email>your@email.com</email>
-  </author>
-  <content type="html">&lt;h1 id=&quot;a-beautiful-heading&quot;&gt;A Beautiful Heading&lt;/h1&gt;
-
-&lt;h3 id=&quot;i-am-inside-the-body-of-the-post&quot;&gt;I am inside the body of the post.&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;Nullam&lt;/strong&gt; dignissim convallis est. Quisque aliquam.&lt;/p&gt;
-
-&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;http://summerspirit.github.io/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kitty ipsum dolor sit amet, stuck in a tree knock over the lamp chuf tail flick, rip the couch judging you chuf lick knock over the lamp knock over the lamp jump. Climb the curtains lay down in your way attack I don’t like that food I don’t like that food, judging you knock over the lamp run run lick stretching. Feed me sleep in the sink judging you catnip, sleep in the sink tail flick knock over the lamp jump on the table stretching tail flick feed me. Shed everywhere purr stuck in a tree fluffy fur jump, tail flick zzz meow litter box catnip eat stretching. Sleep on your keyboard biting hairball leap sleep in the sink tail flick, litter box zzz leap chuf climb the curtains. Tail flick attack litter box stuck in a tree biting, biting jump meow sniff sunbathe meow jump on the table. Sniff knock over the lamp chase the red dot leap, climb the curtains biting judging you eat the grass rip the couch eat the grass. Lick sunbathe run meow eat, jump I don’t like that food biting chuf sniff.
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt; Strive not to be a success, but rather to be of value. –Albert Einstein &lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;
-I don’t like that food judging you sunbathe I don’t like that food litter box zzz, hairball run climb the curtains judging you puking toss the mousie. Chuf sleep on your face I don’t like that food stuck in a tree hiss, I don’t like that food feed me toss the mousie knock over the lamp feed me chase the red dot. Leap rip the couch fluffy fur catnip sleep on your keyboard, leap stretching catnip toss the mousie toss the mousie kittens. Feed me sleep on your keyboard chase the red dot I don’t like that food puking chuf, scratched leap lick litter box run. Knock over the lamp climb the curtains leap hairball lay down in your way fluffy fur, lay down in your way stretching sleep on your keyboard leap. Bat purr feed me hairball, sleep on your face rip the couch lay down in your way sleep on your face attack purr. Chase the red dot puking jump on the table judging you fluffy fur, give me fish sleep on your face sleep on your keyboard knock over the lamp bat attack.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;term&lt;/dt&gt;
-  &lt;dd&gt;definition 1&lt;/dd&gt;
-  &lt;dd&gt;definition 2&lt;/dd&gt;
-&lt;/dl&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/code/first-post/&quot;&gt;First Post&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on April 01, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Before Genesis]]></title>
-  <link rel="alternate" type="text/html" href="http://summerspirit.github.io/poetry/before-genesis/" />
-  <id>http://summerspirit.github.io/poetry/before-genesis</id>
-  <updated>2014-03-02 12:28:12 -0500T00:00:00-00:00</updated>
-  <published>2014-03-31T00:00:00-04:00</published>
-  
-  <author>
-    <name>Naomi</name>
-    <uri>http://summerspirit.github.io</uri>
-    <email>your@email.com</email>
-  </author>
-  <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/lSAKFkxq4jA&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
-&lt;p&gt;&lt;br /&gt;
-Hello there! What’s that? A responsive video? :o&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;js&quot;&gt;&lt;span class=&quot;nx&quot;&gt;Pomegranates&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Meteor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Collection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Pomegranates&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{});&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//global variable&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Meteor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isClient&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;Accounts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ui&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-   &lt;span class=&quot;nx&quot;&gt;passwordSignupFields&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;USERNAME_AND_EMAIL&amp;#39;&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-
-  &lt;span class=&quot;nx&quot;&gt;Meteor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;subscribe&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;pomegranates&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//matches what&amp;#39;s in publish in isServer. define what gets synced to browser.&lt;/span&gt;
-
-  &lt;span class=&quot;nx&quot;&gt;Template&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;greeting&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Welcome to Pomegranate.&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-
-  &lt;span class=&quot;nx&quot;&gt;Template&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;events&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-    &lt;span class=&quot;s1&quot;&gt;&amp;#39;click input&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;c1&quot;&gt;// template data, if any, is available in &amp;#39;this&amp;#39;&lt;/span&gt;
-      &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;typeof&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!==&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;undefined&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;You pressed the button&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-
-
-&lt;span class=&quot;nx&quot;&gt;Template&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;pomegranatesList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;helpers&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;allPomegranates&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-       &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Pomegranates&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({},&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;sort&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;startDate&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}});&lt;/span&gt;
-     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-   &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
- 
-   &lt;span class=&quot;nx&quot;&gt;Template&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;pomegranatesList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;events&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-     &lt;span class=&quot;s1&quot;&gt;&amp;#39;submit #new-pomegranate&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-       &lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;preventDefault&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// don&amp;#39;t reload the page like you would by default&lt;/span&gt;
-                            &lt;span class=&quot;c1&quot;&gt;// instead do some interesting stuff: &lt;/span&gt;
-       &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pomegranate&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-         &lt;span class=&quot;nx&quot;&gt;userId&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Meteor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// user id added to document&lt;/span&gt;
-         &lt;span class=&quot;nx&quot;&gt;startDate&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(),&lt;/span&gt;
-         &lt;span class=&quot;nx&quot;&gt;goal&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;[name=goal]&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(),&lt;/span&gt;
-       &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-       
-       &lt;span class=&quot;nx&quot;&gt;Pomegranates&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;insert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;pomegranate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-     &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-
-     &lt;span class=&quot;s1&quot;&gt;&amp;#39;click .delete&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//event name is click; selector is anything with delete&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;Pomegranates&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;remove&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-   &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
- &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Meteor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isServer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// necessary because autopublish was removed&lt;/span&gt;
- &lt;span class=&quot;nx&quot;&gt;Meteor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;publish&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;pomegranates&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Pomegranates&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({},&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;sort&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;startDate&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}});&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//return result of this query. define what gets synced to browser.&lt;/span&gt;
- &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// check to see if the appropriate user is signed in to the document&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;Meteor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;startup&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ownsDocument&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;userId&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;doc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;doc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;doc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;userId&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;userId&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
- &lt;span class=&quot;c1&quot;&gt;// if current user matches the document, you are allowed to do these things&lt;/span&gt;
- &lt;span class=&quot;nx&quot;&gt;Pomegranates&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;allow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-   &lt;span class=&quot;nx&quot;&gt;insert&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ownsDocument&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-   &lt;span class=&quot;nx&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ownsDocument&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-   &lt;span class=&quot;nx&quot;&gt;remove&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ownsDocument&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
- &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// code to run on server at startup&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;a href=&quot;http://it-ebooks.info/go.php?id=1354-1396471669-dd28748c22b86ed5f0217f88365ad35b&quot; class=&quot;btn btn-success&quot;&gt;Download a free, unrelated book!&lt;/a&gt;&lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;http://summerspirit.github.io/poetry/before-genesis/&quot;&gt;Before Genesis&lt;/a&gt; was originally published by Naomi at &lt;a href=&quot;http://summerspirit.github.io&quot;&gt;Naomi's Most Excellent Site&lt;/a&gt; on March 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
